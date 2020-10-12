@@ -8,8 +8,8 @@ Connection info:
 
 These meetings will take place after the explanation of the theory parts of each methodology's phase, as scheduled in the calendar of the KDI course (see KDI website). The time allocated for these meetings is 20 minutes in the beginning of the lesson.
 
-This means that, if the lesson will take place in Thursday the meeting will start at 15:30,\
-while if the lesson will take place in Friday the meeting will start at 14:30.
+This means that, if the lesson will take place on Thursday the meeting will start at 15:30,\
+while if the lesson will take place on Friday the meeting will start at 14:30.
 
 Below the Zoom connection coordinates:
 
