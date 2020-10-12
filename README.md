@@ -16,5 +16,5 @@ Below the Zoom connection coordinates:
 Name: KDI - Covid-19 project room\
 ID: 815 2294 8546 \
 PWD: 9KS23L\
-Link: https://us02web.zoom.us/j/81522948546?pwd=VGtZaWRCVmkyZEthS05wbUNZT1pRZz09 \
+Link: https://us02web.zoom.us/j/81522948546?pwd=VGtZaWRCVmkyZEthS05wbUNZT1pRZz09
 
