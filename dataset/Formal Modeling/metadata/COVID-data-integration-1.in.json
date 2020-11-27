@@ -1,0 +1,51 @@
+{
+    "@graph": [
+        {
+            "@id": "https://data.europa.eu/euodp/en/data/dataset/covid-19-coronavirus-data",
+            "@type": "dcat: Dataset",
+            "accrualPeriodicity": "Daily",
+            "creator": "European Centre for Disease Prevention and Control",
+            "creationDate": "2020-02-27",
+            "title": {
+                "@language": "en",
+                "@value": "COVID-19 Coronavirus data"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "The European Centre for Disease Prevention and Control(ECDC) has created this dataset by collecting reports from health authorities worldwide ever since the Covid-19 outbreak. The data is updated on a daily basis and is available in CSV format. The dataset contains cumulative daily status regarding the pandemic across the world."
+            },
+            "identifier": "COVID-19-geographic-disbtribution-worldwide.csv",
+            "modified": "2020-10-20",
+            "publisher": "European Centre for Disease Prevention and Control (ECDC)",
+            "keywords": [
+                "COVID-19",
+                "disease outbreak",
+                "corona virus",
+                "SARS-CoV-2",
+                "coronavirus",
+                "severe acute respiratory syndrome",
+                "coronavirus-2"
+            ],
+            "theme": "Health"
+        }
+    ],
+    "@context": {
+        "contactPoint" : {
+            "@id" : "https://www.ecdc.europa.eu/en/about-ecdc",
+            "@type" : "@id"
+        },
+        "ColumnNames": [
+            "dateRep",
+            "cases",
+            "deaths",
+            "countriesAndTerritories"
+        ],
+        "SourceDatasetURL": {
+            "@id": "https://github.com/UNITN-KDI-2020/COVID-data-integration/blob/master/dataset/Informal%20Modeling/data/COVID-19-geographic-disbtribution-worldwide.csv",
+            "@type": "@id"
+        },
+        "SKG": "COVID-data-integration.skg",
+        "DKG": "COVID-data-integration.dkg",
+        "NumberItems": "50203"
+    }
+}

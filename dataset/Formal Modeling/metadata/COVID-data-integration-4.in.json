@@ -1,0 +1,53 @@
+{
+    "@graph": [
+        {
+            "@id": "https://covid19.healthdata.org/switzerland?view=total-deaths&tab=trend",
+            "@type": "dcat: Dataset",
+            "creator": "Institute for Health Metrics and Evaluation (IHME)",
+            "creationDate": "2020-03-25",
+            "title": {
+                "@language": "it",
+                "@value": "Situazione sanitaria emergenza COVID-19"
+            },
+            "description": {
+                "@language": "it",
+                "@value": "Questo cruscotto visualizza i dati della situazione di emergenza sanitaria COVID-19. I dati provengono dalla piattaforma di Trentino Digitale e sono quelli che APSS fornisce quotidianamente in funzione della conferenza stampa della Provincia Autonoma di Trento."
+            },
+            "identifier": "stato_clinico_td.csv",
+            "modified": "2020-10-20",
+            "publisher": "Trentino Digitale",
+            "keywords": [
+                "COVID-19",
+                "COVID Italy",
+                "corona virus",
+                "COVID-19 Trentino",
+                "Trentino"
+            ],
+            "theme": "Health"
+        }
+    ],
+    "@context": {
+        "contactPoint": {
+            "@id": "https://www.trentinodigitale.it/",
+            "@type": "@id"
+        },
+        "ColumnNames": [
+            "giorno",
+            "guariti",
+            "deceduti",
+            "totale_pos",
+            "pos_att",
+            "rsa",
+            "casa_cura",
+            "tot_rsa",
+            "tot_dime"
+        ],
+        "SourceDatasetURL": {
+            "@id": "https://github.com/UNITN-KDI-2020/COVID-data-integration/blob/master/dataset/Informal%20Modeling/data/stato_clinico_td.csv",
+            "@type": "@id"
+        },
+        "SKG": "COVID-data-integration.skg",
+        "DKG": "COVID-data-integration.dkg",
+        "NumberItems": "233"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "@context": {
+        "creator": {
+            "@id": "COVID-data-integration",
+            "@type": "@id"
+        },
+        "creationDate": {
+            "@id": "2020-10-12",
+            "@type": "@id"
+        },
+        "KDIYear": "2020",
+        "members": [
+            {
+                "ProjectManager": "Maria Jyate",
+                "DataScientist": [
+                    "Maria Jyate",
+                    "Nisha Antony"
+                ],
+                "DomainExpert": [
+                    "Daniel Gotca",
+                    "Lorenzo Donini"
+                ],
+                "KnowledgeEngineer": [
+                    "Daniel Gotca",
+                    "Lorenzo Donini"
+                ]
+            }
+        ],
+        "Codebook": {
+            "@id": "COVID-data-integration.cd",
+            "@type": "@id"
+        },
+        "Demo": "COVID-data-integration.d",
+        "DemoSlides": "COVID-data-integration.ds",
+        "ProjectSlides": "COVID-data-integration.ps",
+        "Repository": {
+            "@id": "https://github.com/UNITN-KDI-2020/COVID-data-integration",
+            "@type": "@id"
+        }
+    }
+}
