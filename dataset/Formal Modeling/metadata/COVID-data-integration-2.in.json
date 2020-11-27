@@ -1,0 +1,71 @@
+{
+    "@graph": [
+        {
+            "@id": "https://covid19.healthdata.org/switzerland?view=total-deaths&tab=trend",
+            "@type": "dcat: Dataset",
+            "creator": "Institute for Health Metrics and Evaluation (IHME)",
+            "creationDate": "2020-03-25",
+            "title": {
+                "@language": "en",
+                "@value": "COVID-19 Mortality, Infection, Testing, Hospital Resource Use, and Social Distancing Projections"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "IHME's COVID-19 projections were developed in response to requests from the University of Washington School of Medicine and other US hospital systems and state governments working to determine when COVID-19 would overwhelm their ability to care for patients. The forecasts show demand for hospital services, daily and cumulative deaths due to COVID-19, rates of infection and testing, and the impact of social distancing, organized by country and state (for select locations)."
+            },
+            "identifier": "Reference_hospitalization_all_locs.csv",
+            "modified": "2020-10-15",
+            "publisher": "Institute for Health Metrics and Evaluation (IHME)",
+            "keywords": [
+                "COVID-19",
+                "disease outbreak",
+                "corona virus",
+                "SARS-CoV-2",
+                "coronavirus",
+                "severe acute respiratory syndrome",
+                "coronavirus-2"
+            ],
+            "theme": "Health"
+        }
+    ],
+    "@context": {
+        "contactPoint": {
+            "@id": "covid19@healthdata.org",
+            "@type": "@id"
+        },
+        "ColumnNames": [
+            "location_id",
+            "date",
+            "location_name",
+            "admis_mean",
+            "deaths_mean",
+            "deaths_lower",
+            "deaths_upper",
+            "totdea_mean",
+            "deaths_mean_smoothed",
+            "deaths_lower_smoothed",
+            "deaths_upper_smoothed",
+            "totdea_mean_smoothed",
+            "totdea_lower_smoothed",
+            "totdea_upper_smoothed",
+            "mobility_data_type",
+            "mobility_composite",
+            "total_tests_data_type",
+            "confirmed_infections",
+            "est_infections_mean",
+            "est_infections_lower",
+            "est_infections_upper",
+            "confirmed_infections_p100k_rate",
+            "est_infections_mean_p100k_rate",
+            "est_infections_lower_p100k_rate",
+            "est_infections_upper_p100k_rate"
+        ],
+        "SourceDatasetURL": {
+            "@id": "https://github.com/UNITN-KDI-2020/COVID-data-integration/blob/master/dataset/Informal%20Modeling/data/Reference_hospitalization_all_locs.csv",
+            "@type": "@id"
+        },
+        "SKG": "COVID-data-integration.skg",
+        "DKG": "COVID-data-integration.dkg",
+        "NumberItems": "89159"
+    }
+}
