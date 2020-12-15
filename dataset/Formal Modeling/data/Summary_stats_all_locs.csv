@@ -1,0 +1,1505 @@
+location_name,restriction_type,closure_start,closure_end
+Abruzzo,Travel,2020-03-22,2020-05-04
+Abruzzo,Lockdown,2020-03-22,2020-05-04
+Abruzzo,Institutional,2020-03-22,2020-05-04
+Abruzzo,Gathering,2020-03-22,2020-05-04
+Abruzzo,Essential Business,2020-03-22,2020-05-04
+Abruzzo,Non-Essential Business,2020-03-22,2020-05-04
+Acre,Institutional,,
+Acre,Gathering,,
+Acre,Essential Business,,
+Afghanistan,Institutional,,
+Afghanistan,Gathering,,
+Afghanistan,Essential Business,,
+Aguascalientes,Lockdown,,
+Aguascalientes,Institutional,,
+Aguascalientes,Gathering,,
+Aguascalientes,Essential Business,,
+Alabama,Lockdown,,
+Alabama,Institutional,,
+Alabama,Gathering,,
+Alabama,Essential Business,,
+Alabama,Non-Essential Business,,
+Alagoas,Institutional,,
+Alagoas,Gathering,,
+Alagoas,Essential Business,,
+Alaska,Travel,2020-03-28,
+Alaska,Lockdown,2020-03-28,
+Alaska,Institutional,2020-03-28,
+Alaska,Gathering,2020-03-28,
+Alaska,Essential Business,2020-03-28,
+Alaska,Non-Essential Business,2020-03-28,
+Albania,Travel,2020-03-14,2020-06-01
+Albania,Lockdown,2020-03-14,2020-06-01
+Albania,Institutional,2020-03-14,2020-06-01
+Albania,Gathering,2020-03-14,2020-06-01
+Albania,Essential Business,2020-03-14,2020-06-01
+Alberta,Institutional,,
+Alberta,Gathering,,
+Alberta,Essential Business,,
+Algeria,Institutional,,
+Algeria,Gathering,,
+Algeria,Essential Business,,
+Amapá,Lockdown,,
+Amapá,Institutional,,
+Amapá,Gathering,,
+Amapá,Essential Business,,
+Amazonas,Travel,2020-04-06,2020-06-01
+Amazonas,Institutional,2020-04-06,2020-06-01
+Amazonas,Gathering,2020-04-06,2020-06-01
+Amazonas,Essential Business,2020-04-06,2020-06-01
+Andalucia,Lockdown,,
+Andalucia,Institutional,,
+Andalucia,Gathering,,
+Andalucia,Essential Business,,
+Andhra Pradesh,Travel,2020-03-22,2020-05-21
+Andhra Pradesh,Lockdown,2020-03-22,2020-05-21
+Andhra Pradesh,Institutional,2020-03-22,2020-05-21
+Andhra Pradesh,Gathering,2020-03-22,2020-05-21
+Andhra Pradesh,Essential Business,2020-03-22,2020-05-21
+Andorra,Institutional,,
+Andorra,Essential Business,,
+Angola,Travel,2020-03-27,2020-05-25
+Angola,Lockdown,2020-03-27,2020-05-25
+Angola,Institutional,2020-03-27,2020-05-25
+Angola,Gathering,2020-03-27,2020-05-25
+Angola,Essential Business,2020-03-27,2020-05-25
+Aragon,Lockdown,,
+Aragon,Institutional,,
+Aragon,Gathering,,
+Aragon,Essential Business,,
+Argentina,Travel,2020-03-20,2020-04-27
+Argentina,Lockdown,2020-03-20,2020-04-27
+Argentina,Institutional,2020-03-20,2020-04-27
+Argentina,Gathering,2020-03-20,2020-04-27
+Argentina,Essential Business,2020-03-20,2020-04-27
+Arizona,Lockdown,,
+Arizona,Institutional,,
+Arizona,Gathering,,
+Arizona,Essential Business,,
+Arkansas,Institutional,,
+Arkansas,Gathering,,
+Arkansas,Essential Business,,
+Armenia,Travel,2020-04-03,2020-04-22
+Armenia,Lockdown,2020-04-03,2020-04-22
+Armenia,Institutional,2020-04-03,2020-04-22
+Armenia,Gathering,2020-04-03,2020-04-22
+Armenia,Essential Business,2020-04-03,2020-04-22
+Arunachal Pradesh,Travel,2020-03-23,2020-05-04
+Arunachal Pradesh,Lockdown,2020-03-23,2020-05-04
+Arunachal Pradesh,Institutional,2020-03-23,2020-05-04
+Arunachal Pradesh,Gathering,2020-03-23,2020-05-04
+Arunachal Pradesh,Essential Business,2020-03-23,2020-05-04
+Assam,Travel,2020-03-24,2020-05-05
+Assam,Lockdown,2020-03-24,2020-05-05
+Assam,Institutional,2020-03-24,2020-05-05
+Assam,Gathering,2020-03-24,2020-05-05
+Assam,Essential Business,2020-03-24,2020-05-05
+Asturias,Lockdown,,
+Asturias,Institutional,,
+Asturias,Gathering,,
+Asturias,Essential Business,,
+Australia,Gathering,,
+Australia,Essential Business,,
+Austria,Lockdown,,
+Austria,Institutional,,
+Austria,Gathering,,
+Austria,Essential Business,,
+Austria,Non-Essential Business,,
+Azad Jammu & Kashmir,Lockdown,,
+Azad Jammu & Kashmir,Institutional,,
+Azad Jammu & Kashmir,Gathering,,
+Azad Jammu & Kashmir,Essential Business,,
+Azerbaijan,Travel,2020-02-29,2020-05-18
+Azerbaijan,Lockdown,2020-02-29,2020-05-18
+Azerbaijan,Institutional,2020-02-29,2020-05-18
+Azerbaijan,Gathering,2020-02-29,2020-05-18
+Azerbaijan,Essential Business,2020-02-29,2020-05-18
+Baden-Württemberg,Lockdown,,
+Baden-Württemberg,Institutional,,
+Baden-Württemberg,Gathering,,
+Baden-Württemberg,Essential Business,,
+Bahamas,Travel,2020-03-20,2020-06-01
+Bahamas,Lockdown,2020-03-20,2020-06-01
+Bahamas,Institutional,2020-03-20,2020-06-01
+Bahamas,Gathering,2020-03-20,2020-06-01
+Bahamas,Essential Business,2020-03-20,2020-06-01
+Bahia,Institutional,,
+Bahia,Gathering,,
+Bahrain,Institutional,,
+Bahrain,Gathering,,
+Bahrain,Essential Business,,
+Baja California,Lockdown,,
+Baja California,Institutional,,
+Baja California,Gathering,,
+Baja California,Essential Business,,
+Baja California Sur,Lockdown,,
+Baja California Sur,Institutional,,
+Baja California Sur,Gathering,,
+Baja California Sur,Essential Business,,
+Balearic Islands,Lockdown,,
+Balearic Islands,Institutional,,
+Balearic Islands,Gathering,,
+Balearic Islands,Essential Business,,
+Balochistan,Lockdown,,
+Balochistan,Institutional,,
+Balochistan,Gathering,,
+Balochistan,Essential Business,,
+Bangladesh,Travel,2020-03-16,2020-06-01
+Bangladesh,Lockdown,2020-03-16,2020-06-01
+Bangladesh,Institutional,2020-03-16,2020-06-01
+Bangladesh,Gathering,2020-03-16,2020-06-01
+Bangladesh,Essential Business,2020-03-16,2020-06-01
+Barbados,Lockdown,,
+Barbados,Institutional,,
+Barbados,Gathering,,
+Barbados,Essential Business,,
+Barbados,Non-Essential Business,,
+Basilicata,Travel,2020-03-22,2020-05-04
+Basilicata,Lockdown,2020-03-22,2020-05-04
+Basilicata,Institutional,2020-03-22,2020-05-04
+Basilicata,Gathering,2020-03-22,2020-05-04
+Basilicata,Essential Business,2020-03-22,2020-05-04
+Basilicata,Non-Essential Business,2020-03-22,2020-05-04
+Basque Country,Lockdown,,
+Basque Country,Institutional,,
+Basque Country,Gathering,,
+Basque Country,Essential Business,,
+Basque Country,Non-Essential Business,,
+Bavaria,Lockdown,,
+Bavaria,Institutional,,
+Bavaria,Gathering,,
+Bavaria,Essential Business,,
+Beijing,Travel,2020-01-31,2020-04-15
+Beijing,Lockdown,2020-01-31,2020-04-15
+Beijing,Institutional,2020-01-31,2020-04-15
+Beijing,Gathering,2020-01-31,2020-04-15
+Beijing,Essential Business,2020-01-31,2020-04-15
+Beijing,Non-Essential Business,2020-01-31,2020-04-15
+Belgium,Lockdown,,
+Belgium,Institutional,,
+Belgium,Gathering,,
+Belgium,Essential Business,,
+Benin,Institutional,,
+Benin,Gathering,,
+Berlin,Lockdown,,
+Berlin,Institutional,,
+Berlin,Gathering,,
+Berlin,Essential Business,,
+Bihar,Travel,2020-03-23,2020-05-19
+Bihar,Lockdown,2020-03-23,2020-05-19
+Bihar,Institutional,2020-03-23,2020-05-19
+Bihar,Gathering,2020-03-23,2020-05-19
+Bihar,Essential Business,2020-03-23,2020-05-19
+Bolivia (Plurinational State of),Travel,2020-03-27,
+Bolivia (Plurinational State of),Lockdown,2020-03-27,
+Bolivia (Plurinational State of),Institutional,2020-03-27,
+Bolivia (Plurinational State of),Gathering,2020-03-27,
+Bolivia (Plurinational State of),Essential Business,2020-03-27,
+Bosnia and Herzegovina,Travel,2020-03-19,2020-05-29
+Bosnia and Herzegovina,Lockdown,2020-03-19,2020-05-29
+Bosnia and Herzegovina,Institutional,2020-03-19,2020-05-29
+Bosnia and Herzegovina,Gathering,2020-03-19,2020-05-29
+Bosnia and Herzegovina,Essential Business,2020-03-19,2020-05-29
+Brandenburg,Lockdown,,
+Brandenburg,Institutional,,
+Brandenburg,Gathering,,
+Brandenburg,Essential Business,,
+Brazil,Institutional,,
+Bremen,Lockdown,,
+Bremen,Institutional,,
+Bremen,Gathering,,
+Bremen,Essential Business,,
+British Columbia,Institutional,,
+British Columbia,Gathering,,
+British Columbia,Essential Business,,
+Bulgaria,Travel,2020-03-21,
+Bulgaria,Lockdown,2020-03-21,
+Bulgaria,Institutional,2020-03-21,
+Bulgaria,Gathering,2020-03-21,
+Bulgaria,Essential Business,2020-03-21,
+Burkina Faso,Institutional,,
+Burkina Faso,Gathering,,
+Cabo Verde,Institutional,,
+Cabo Verde,Gathering,,
+Cabo Verde,Essential Business,,
+Calabria,Travel,2020-03-22,2020-05-04
+Calabria,Lockdown,2020-03-22,2020-05-04
+Calabria,Institutional,2020-03-22,2020-05-04
+Calabria,Gathering,2020-03-22,2020-05-04
+Calabria,Essential Business,2020-03-22,2020-05-04
+Calabria,Non-Essential Business,2020-03-22,2020-05-04
+California,Lockdown,,
+California,Institutional,,
+California,Gathering,,
+California,Essential Business,,
+Cameroon,Institutional,,
+Cameroon,Gathering,,
+Campania,Travel,2020-03-22,2020-05-04
+Campania,Lockdown,2020-03-22,2020-05-04
+Campania,Institutional,2020-03-22,2020-05-04
+Campania,Gathering,2020-03-22,2020-05-04
+Campania,Essential Business,2020-03-22,2020-05-04
+Campania,Non-Essential Business,2020-03-22,2020-05-04
+Campeche,Lockdown,,
+Campeche,Institutional,,
+Campeche,Gathering,,
+Campeche,Essential Business,,
+Canada,Institutional,,
+Canada,Gathering,,
+Canary Islands,Lockdown,,
+Canary Islands,Institutional,,
+Canary Islands,Gathering,,
+Canary Islands,Essential Business,,
+Cantabria,Lockdown,,
+Cantabria,Institutional,,
+Cantabria,Gathering,,
+Cantabria,Essential Business,,
+Cantabria,Non-Essential Business,,
+Castile and León,Lockdown,,
+Castile and León,Institutional,,
+Castile and León,Gathering,,
+Castile and León,Essential Business,,
+Castilla-La Mancha,Lockdown,,
+Castilla-La Mancha,Institutional,,
+Castilla-La Mancha,Gathering,,
+Castilla-La Mancha,Essential Business,,
+Catalonia,Lockdown,,
+Catalonia,Institutional,,
+Catalonia,Gathering,,
+Catalonia,Essential Business,,
+Catalonia,Non-Essential Business,,
+Ceará,Lockdown,,
+Ceará,Institutional,,
+Ceará,Gathering,,
+Ceará,Essential Business,,
+Central African Republic,Institutional,,
+Central African Republic,Gathering,,
+Central African Republic,Essential Business,,
+Chad,Institutional,,
+Chad,Gathering,,
+Chad,Essential Business,,
+Chhattisgarh,Travel,2020-03-25,2020-05-28
+Chhattisgarh,Lockdown,2020-03-25,2020-05-28
+Chhattisgarh,Institutional,2020-03-25,2020-05-28
+Chhattisgarh,Gathering,2020-03-25,2020-05-28
+Chhattisgarh,Essential Business,2020-03-25,2020-05-28
+Chiapas,Lockdown,,
+Chiapas,Institutional,,
+Chiapas,Gathering,,
+Chiapas,Essential Business,,
+Chihuahua,Lockdown,,
+Chihuahua,Institutional,,
+Chihuahua,Gathering,,
+Chihuahua,Essential Business,,
+Chile,Institutional,,
+Chile,Gathering,,
+Chile,Essential Business,,
+Chongqing,Travel,2020-02-08,2020-03-24
+Chongqing,Lockdown,2020-02-08,2020-03-24
+Chongqing,Institutional,2020-02-08,2020-03-24
+Chongqing,Gathering,2020-02-08,2020-03-24
+Chongqing,Essential Business,2020-02-08,2020-03-24
+Chongqing,Non-Essential Business,2020-02-08,2020-03-24
+Coahuila,Lockdown,,
+Coahuila,Institutional,,
+Coahuila,Gathering,,
+Coahuila,Essential Business,,
+Colima,Lockdown,,
+Colima,Institutional,,
+Colima,Gathering,,
+Colima,Essential Business,,
+Colombia,Travel,2020-03-25,2020-06-15
+Colombia,Lockdown,2020-03-25,2020-06-15
+Colombia,Institutional,2020-03-25,2020-06-15
+Colombia,Gathering,2020-03-25,2020-06-15
+Colombia,Essential Business,2020-03-25,2020-06-15
+Colorado,Lockdown,,
+Colorado,Institutional,,
+Colorado,Gathering,,
+Colorado,Essential Business,,
+Community of Madrid,Lockdown,,
+Community of Madrid,Institutional,,
+Community of Madrid,Gathering,,
+Community of Madrid,Essential Business,,
+Comoros,Institutional,,
+Comoros,Gathering,,
+Congo,Lockdown,,
+Congo,Institutional,,
+Congo,Gathering,,
+Congo,Essential Business,,
+Connecticut,Institutional,,
+Connecticut,Gathering,,
+Connecticut,Essential Business,,
+Costa Rica,Travel,2020-04-08,2020-04-13
+Costa Rica,Lockdown,2020-04-08,2020-04-13
+Costa Rica,Institutional,2020-04-08,2020-04-13
+Costa Rica,Gathering,2020-04-08,2020-04-13
+Costa Rica,Essential Business,2020-04-08,2020-04-13
+Croatia,Travel,2020-03-23,2020-05-25
+Croatia,Lockdown,2020-03-23,2020-05-25
+Croatia,Institutional,2020-03-23,2020-05-25
+Croatia,Gathering,2020-03-23,2020-05-25
+Croatia,Essential Business,2020-03-23,2020-05-25
+Cuba,Travel,2020-04-11,
+Cuba,Institutional,2020-04-11,
+Cuba,Gathering,2020-04-11,
+Cuba,Essential Business,2020-04-11,
+Cyprus,Lockdown,,
+Cyprus,Institutional,,
+Cyprus,Gathering,,
+Cyprus,Essential Business,,
+Czechia,Lockdown,,
+Czechia,Institutional,,
+Czechia,Gathering,,
+Czechia,Essential Business,,
+Côte d'Ivoire,Institutional,,
+Côte d'Ivoire,Gathering,,
+Côte d'Ivoire,Essential Business,,
+Delaware,Lockdown,,
+Delaware,Institutional,,
+Delaware,Gathering,,
+Delaware,Essential Business,,
+Delhi,Travel,2020-03-23,2020-04-26
+Delhi,Lockdown,2020-03-23,2020-04-26
+Delhi,Institutional,2020-03-23,2020-04-26
+Delhi,Gathering,2020-03-23,2020-04-26
+Delhi,Essential Business,2020-03-23,2020-04-26
+Democratic Republic of the Congo,Institutional,,
+Democratic Republic of the Congo,Gathering,,
+Democratic Republic of the Congo,Essential Business,,
+Denmark,Institutional,,
+Denmark,Gathering,,
+Denmark,Essential Business,,
+District of Columbia,Lockdown,,
+District of Columbia,Institutional,,
+District of Columbia,Gathering,,
+District of Columbia,Essential Business,,
+Distrito Federal,Institutional,,
+Distrito Federal,Gathering,,
+Distrito Federal,Essential Business,,
+Djibouti,Lockdown,,
+Djibouti,Institutional,,
+Djibouti,Gathering,,
+Djibouti,Essential Business,,
+Dominican Republic,Travel,2020-03-19,2020-04-13
+Dominican Republic,Institutional,2020-03-19,2020-04-13
+Dominican Republic,Gathering,2020-03-19,2020-04-13
+Dominican Republic,Essential Business,2020-03-19,2020-04-13
+Durango,Lockdown,,
+Durango,Institutional,,
+Durango,Gathering,,
+Durango,Essential Business,,
+Ecuador,Travel,2020-03-18,
+Ecuador,Lockdown,2020-03-18,
+Ecuador,Institutional,2020-03-18,
+Ecuador,Gathering,2020-03-18,
+Ecuador,Essential Business,2020-03-18,
+Egypt,Institutional,,
+Egypt,Gathering,,
+Egypt,Essential Business,,
+El Salvador,Lockdown,,
+El Salvador,Institutional,,
+El Salvador,Gathering,,
+El Salvador,Essential Business,,
+Emilia-Romagna,Travel,2020-03-22,2020-05-04
+Emilia-Romagna,Lockdown,2020-03-22,2020-05-04
+Emilia-Romagna,Institutional,2020-03-22,2020-05-04
+Emilia-Romagna,Gathering,2020-03-22,2020-05-04
+Emilia-Romagna,Essential Business,2020-03-22,2020-05-04
+Emilia-Romagna,Non-Essential Business,2020-03-22,2020-05-04
+England,Lockdown,,
+England,Institutional,,
+England,Gathering,,
+England,Essential Business,,
+Equatorial Guinea,Lockdown,,
+Equatorial Guinea,Institutional,,
+Equatorial Guinea,Gathering,,
+Equatorial Guinea,Essential Business,,
+Espírito Santo,Institutional,,
+Espírito Santo,Gathering,,
+Espírito Santo,Essential Business,,
+Estonia,Institutional,,
+Estonia,Gathering,,
+Estonia,Essential Business,,
+Eswatini,Lockdown,,
+Eswatini,Institutional,,
+Eswatini,Gathering,,
+Eswatini,Essential Business,,
+Ethiopia,Institutional,,
+Ethiopia,Gathering,,
+Ethiopia,Essential Business,,
+Extremadura,Lockdown,,
+Extremadura,Institutional,,
+Extremadura,Gathering,,
+Extremadura,Essential Business,,
+Finland,Travel,2020-03-25,2020-05-29
+Finland,Institutional,2020-03-25,2020-05-29
+Finland,Gathering,2020-03-25,2020-05-29
+Finland,Essential Business,2020-03-25,2020-05-29
+Finland,Non-Essential Business,2020-03-25,2020-05-29
+Florida,Lockdown,,
+Florida,Institutional,,
+Florida,Gathering,,
+Florida,Essential Business,,
+France,Travel,2020-03-17,2020-05-11
+France,Lockdown,2020-03-17,2020-05-11
+France,Institutional,2020-03-17,2020-05-11
+France,Gathering,2020-03-17,2020-05-11
+France,Essential Business,2020-03-17,2020-05-11
+Friuli-Venezia Giulia,Travel,2020-03-22,2020-05-04
+Friuli-Venezia Giulia,Lockdown,2020-03-22,2020-05-04
+Friuli-Venezia Giulia,Institutional,2020-03-22,2020-05-04
+Friuli-Venezia Giulia,Gathering,2020-03-22,2020-05-04
+Friuli-Venezia Giulia,Essential Business,2020-03-22,2020-05-04
+Friuli-Venezia Giulia,Non-Essential Business,2020-03-22,2020-05-04
+Gabon,Institutional,,
+Gabon,Gathering,,
+Gabon,Essential Business,,
+Galicia,Lockdown,,
+Galicia,Institutional,,
+Galicia,Gathering,,
+Galicia,Essential Business,,
+Galicia,Non-Essential Business,,
+Gambia,Institutional,,
+Gambia,Gathering,,
+Gambia,Essential Business,,
+Georgia,Travel,2020-03-24,2020-04-27
+Georgia,Institutional,2020-03-24,2020-04-27
+Georgia,Gathering,2020-03-24,2020-04-27
+Georgia,Essential Business,2020-03-24,2020-04-27
+Georgia,Lockdown,,
+Georgia,Institutional,,
+Georgia,Gathering,,
+Georgia,Essential Business,,
+Ghana,Institutional,,
+Ghana,Gathering,,
+Ghana,Essential Business,,
+Gilgit-Baltistan,Lockdown,,
+Gilgit-Baltistan,Institutional,,
+Gilgit-Baltistan,Gathering,,
+Gilgit-Baltistan,Essential Business,,
+Goa,Travel,2020-03-25,2020-04-20
+Goa,Lockdown,2020-03-25,2020-04-20
+Goa,Institutional,2020-03-25,2020-04-20
+Goa,Gathering,2020-03-25,2020-04-20
+Goa,Essential Business,2020-03-25,2020-04-20
+Goiás,Institutional,,
+Goiás,Gathering,,
+Goiás,Essential Business,,
+Greece,Travel,2020-03-23,
+Greece,Lockdown,2020-03-23,
+Greece,Institutional,2020-03-23,
+Greece,Gathering,2020-03-23,
+Greece,Essential Business,2020-03-23,
+Guam,Travel,2020-04-11,2020-04-28
+Guam,Institutional,2020-04-11,2020-04-28
+Guam,Gathering,2020-04-11,2020-04-28
+Guam,Essential Business,2020-04-11,2020-04-28
+Guanajuato,Lockdown,,
+Guanajuato,Institutional,,
+Guanajuato,Gathering,,
+Guanajuato,Essential Business,,
+Guangdong,Travel,2020-02-06,2020-05-19
+Guangdong,Lockdown,2020-02-06,2020-05-19
+Guangdong,Institutional,2020-02-06,2020-05-19
+Guangdong,Gathering,2020-02-06,2020-05-19
+Guangdong,Essential Business,2020-02-06,2020-05-19
+Guangdong,Non-Essential Business,2020-02-06,2020-05-19
+Guatemala,Institutional,,
+Guatemala,Gathering,,
+Guatemala,Essential Business,,
+Guerrero,Lockdown,,
+Guerrero,Institutional,,
+Guerrero,Gathering,,
+Guerrero,Essential Business,,
+Guinea,Institutional,,
+Guinea,Gathering,,
+Guinea,Essential Business,,
+Guinea-Bissau,Lockdown,,
+Guinea-Bissau,Institutional,,
+Guinea-Bissau,Gathering,,
+Guinea-Bissau,Essential Business,,
+Gujarat,Travel,2020-03-24,2020-05-18
+Gujarat,Lockdown,2020-03-24,2020-05-18
+Gujarat,Institutional,2020-03-24,2020-05-18
+Gujarat,Gathering,2020-03-24,2020-05-18
+Gujarat,Essential Business,2020-03-24,2020-05-18
+Guyana,Lockdown,,
+Guyana,Institutional,,
+Guyana,Gathering,,
+Guyana,Essential Business,,
+Hainan,Travel,2020-02-05,2020-02-25
+Hainan,Lockdown,2020-02-05,2020-02-25
+Hainan,Institutional,2020-02-05,2020-02-25
+Hainan,Gathering,2020-02-05,2020-02-25
+Hainan,Essential Business,2020-02-05,2020-02-25
+Hainan,Non-Essential Business,2020-02-05,2020-02-25
+Haiti,Institutional,,
+Haiti,Gathering,,
+Haiti,Essential Business,,
+Hamburg,Lockdown,,
+Hamburg,Institutional,,
+Hamburg,Gathering,,
+Hamburg,Essential Business,,
+Haryana,Travel,2020-03-24,2020-05-16
+Haryana,Lockdown,2020-03-24,2020-05-16
+Haryana,Institutional,2020-03-24,2020-05-16
+Haryana,Gathering,2020-03-24,2020-05-16
+Haryana,Essential Business,2020-03-24,2020-05-16
+Hawaii,Lockdown,,
+Hawaii,Institutional,,
+Hawaii,Gathering,,
+Hawaii,Essential Business,,
+Hebei,Travel,2020-02-07,2020-03-24
+Hebei,Lockdown,2020-02-07,2020-03-24
+Hebei,Institutional,2020-02-07,2020-03-24
+Hebei,Gathering,2020-02-07,2020-03-24
+Hebei,Essential Business,2020-02-07,2020-03-24
+Hebei,Non-Essential Business,2020-02-07,2020-03-24
+Heilongjiang,Travel,2020-02-06,2020-03-09
+Heilongjiang,Lockdown,2020-02-06,2020-03-09
+Heilongjiang,Institutional,2020-02-06,2020-03-09
+Heilongjiang,Gathering,2020-02-06,2020-03-09
+Heilongjiang,Essential Business,2020-02-06,2020-03-09
+Heilongjiang,Non-Essential Business,2020-02-06,2020-03-09
+Hesse,Lockdown,,
+Hesse,Institutional,,
+Hesse,Gathering,,
+Hesse,Essential Business,,
+Hidalgo,Lockdown,,
+Hidalgo,Institutional,,
+Hidalgo,Gathering,,
+Hidalgo,Essential Business,,
+Himachal Pradesh,Travel,2020-03-23,2020-04-20
+Himachal Pradesh,Lockdown,2020-03-23,2020-04-20
+Himachal Pradesh,Institutional,2020-03-23,2020-04-20
+Himachal Pradesh,Gathering,2020-03-23,2020-04-20
+Himachal Pradesh,Essential Business,2020-03-23,2020-04-20
+Honduras,Travel,2020-03-16,
+Honduras,Lockdown,2020-03-16,
+Honduras,Institutional,2020-03-16,
+Honduras,Gathering,2020-03-16,
+Honduras,Essential Business,2020-03-16,
+Hubei,Travel,2020-02-10,2020-03-14
+Hubei,Lockdown,2020-02-10,2020-03-14
+Hubei,Institutional,2020-02-10,2020-03-14
+Hubei,Gathering,2020-02-10,2020-03-14
+Hubei,Essential Business,2020-02-10,2020-03-14
+Hubei,Non-Essential Business,2020-02-10,2020-03-14
+Hungary,Lockdown,,
+Hungary,Institutional,,
+Hungary,Gathering,,
+Hungary,Essential Business,,
+Iceland,Institutional,,
+Iceland,Gathering,,
+Iceland,Essential Business,,
+Idaho,Lockdown,,
+Idaho,Institutional,,
+Idaho,Gathering,,
+Idaho,Essential Business,,
+Idaho,Non-Essential Business,,
+Illinois,Lockdown,,
+Illinois,Institutional,,
+Illinois,Gathering,,
+Illinois,Essential Business,,
+India,Travel,2020-03-25,
+India,Lockdown,2020-03-25,
+India,Institutional,2020-03-25,
+India,Gathering,2020-03-25,
+India,Essential Business,2020-03-25,
+Indiana,Lockdown,,
+Indiana,Institutional,,
+Indiana,Gathering,,
+Indiana,Essential Business,,
+Indiana,Non-Essential Business,,
+Indonesia,Institutional,,
+Indonesia,Gathering,,
+Iowa,Institutional,,
+Iowa,Gathering,,
+Iowa,Essential Business,,
+Iran (Islamic Republic of),Travel,2020-03-19,2020-04-09
+Iran (Islamic Republic of),Institutional,2020-03-19,2020-04-09
+Iran (Islamic Republic of),Gathering,2020-03-19,2020-04-09
+Iran (Islamic Republic of),Essential Business,2020-03-19,2020-04-09
+Iraq,Lockdown,,
+Iraq,Institutional,,
+Iraq,Gathering,,
+Iraq,Essential Business,,
+Ireland,Lockdown,,
+Ireland,Institutional,,
+Ireland,Gathering,,
+Ireland,Essential Business,,
+Islamabad Capital Territory,Lockdown,,
+Islamabad Capital Territory,Institutional,,
+Islamabad Capital Territory,Gathering,,
+Islamabad Capital Territory,Essential Business,,
+Israel,Lockdown,,
+Israel,Institutional,,
+Israel,Gathering,,
+Israel,Essential Business,,
+Jalisco,Lockdown,,
+Jalisco,Institutional,,
+Jalisco,Gathering,,
+Jalisco,Essential Business,,
+Jamaica,Institutional,,
+Jamaica,Gathering,,
+Jamaica,Essential Business,,
+Jammu & Kashmir and Ladakh,Travel,2020-03-22,
+Jammu & Kashmir and Ladakh,Lockdown,2020-03-22,
+Jammu & Kashmir and Ladakh,Institutional,2020-03-22,
+Jammu & Kashmir and Ladakh,Gathering,2020-03-22,
+Jammu & Kashmir and Ladakh,Essential Business,2020-03-22,
+Japan,Institutional,,
+Jharkhand,Travel,2020-03-23,2020-05-19
+Jharkhand,Lockdown,2020-03-23,2020-05-19
+Jharkhand,Institutional,2020-03-23,2020-05-19
+Jharkhand,Gathering,2020-03-23,2020-05-19
+Jharkhand,Essential Business,2020-03-23,2020-05-19
+Jordan,Travel,2020-03-18,2020-04-29
+Jordan,Lockdown,2020-03-18,2020-04-29
+Jordan,Institutional,2020-03-18,2020-04-29
+Jordan,Gathering,2020-03-18,2020-04-29
+Jordan,Essential Business,2020-03-18,2020-04-29
+Jordan,Non-Essential Business,2020-03-18,2020-04-29
+Kansas,Lockdown,,
+Kansas,Institutional,,
+Kansas,Gathering,,
+Kansas,Essential Business,,
+Karnataka,Travel,2020-03-24,2020-05-04
+Karnataka,Lockdown,2020-03-24,2020-05-04
+Karnataka,Institutional,2020-03-24,2020-05-04
+Karnataka,Gathering,2020-03-24,2020-05-04
+Karnataka,Essential Business,2020-03-24,2020-05-04
+Kazakhstan,Travel,2020-03-16,2020-06-01
+Kazakhstan,Lockdown,2020-03-16,2020-06-01
+Kazakhstan,Institutional,2020-03-16,2020-06-01
+Kazakhstan,Gathering,2020-03-16,2020-06-01
+Kazakhstan,Essential Business,2020-03-16,2020-06-01
+Kentucky,Institutional,,
+Kentucky,Gathering,,
+Kentucky,Essential Business,,
+Kentucky,Non-Essential Business,,
+Kenya,Institutional,,
+Kenya,Gathering,,
+Kenya,Essential Business,,
+Kerala,Travel,2020-03-23,2020-05-19
+Kerala,Lockdown,2020-03-23,2020-05-19
+Kerala,Institutional,2020-03-23,2020-05-19
+Kerala,Gathering,2020-03-23,2020-05-19
+Kerala,Essential Business,2020-03-23,2020-05-19
+Khyber Pakhtunkhwa,Lockdown,,
+Khyber Pakhtunkhwa,Institutional,,
+Khyber Pakhtunkhwa,Gathering,,
+Khyber Pakhtunkhwa,Essential Business,,
+Kuwait,Travel,2020-05-10,
+Kuwait,Lockdown,2020-05-10,
+Kuwait,Institutional,2020-05-10,
+Kuwait,Gathering,2020-05-10,
+Kuwait,Essential Business,2020-05-10,
+Kyrgyzstan,Institutional,,
+Kyrgyzstan,Gathering,,
+Kyrgyzstan,Essential Business,,
+La Rioja,Lockdown,,
+La Rioja,Institutional,,
+La Rioja,Gathering,,
+La Rioja,Essential Business,,
+Latvia,Institutional,,
+Latvia,Gathering,,
+Lazio,Travel,2020-03-22,2020-05-04
+Lazio,Lockdown,2020-03-22,2020-05-04
+Lazio,Institutional,2020-03-22,2020-05-04
+Lazio,Gathering,2020-03-22,2020-05-04
+Lazio,Essential Business,2020-03-22,2020-05-04
+Lazio,Non-Essential Business,2020-03-22,2020-05-04
+Lebanon,Lockdown,,
+Lebanon,Institutional,,
+Lebanon,Gathering,,
+Lebanon,Essential Business,,
+Liberia,Institutional,,
+Liberia,Gathering,,
+Liberia,Essential Business,,
+Libya,Institutional,,
+Libya,Gathering,,
+Libya,Essential Business,,
+Liguria,Travel,2020-03-22,2020-05-04
+Liguria,Lockdown,2020-03-22,2020-05-04
+Liguria,Institutional,2020-03-22,2020-05-04
+Liguria,Gathering,2020-03-22,2020-05-04
+Liguria,Essential Business,2020-03-22,2020-05-04
+Liguria,Non-Essential Business,2020-03-22,2020-05-04
+Lithuania,Lockdown,,
+Lithuania,Institutional,,
+Lithuania,Gathering,,
+Lithuania,Essential Business,,
+Lithuania,Non-Essential Business,,
+Lombardia,Travel,2020-03-08,2020-05-04
+Lombardia,Lockdown,2020-03-08,2020-05-04
+Lombardia,Institutional,2020-03-08,2020-05-04
+Lombardia,Gathering,2020-03-08,2020-05-04
+Lombardia,Essential Business,2020-03-08,2020-05-04
+Lombardia,Non-Essential Business,2020-03-08,2020-05-04
+Louisiana,Lockdown,,
+Louisiana,Institutional,,
+Louisiana,Gathering,,
+Louisiana,Essential Business,,
+Lower Saxony,Lockdown,,
+Lower Saxony,Institutional,,
+Lower Saxony,Gathering,,
+Lower Saxony,Essential Business,,
+Luxembourg,Institutional,,
+Luxembourg,Gathering,,
+Luxembourg,Essential Business,,
+Luxembourg,Non-Essential Business,,
+Madagascar,Travel,2020-03-21,
+Madagascar,Institutional,2020-03-21,
+Madagascar,Gathering,2020-03-21,
+Madagascar,Essential Business,2020-03-21,
+Madhya Pradesh,Travel,2020-03-23,2020-06-01
+Madhya Pradesh,Lockdown,2020-03-23,2020-06-01
+Madhya Pradesh,Institutional,2020-03-23,2020-06-01
+Madhya Pradesh,Gathering,2020-03-23,2020-06-01
+Madhya Pradesh,Essential Business,2020-03-23,2020-06-01
+Maharashtra,Travel,2020-03-23,2020-06-05
+Maharashtra,Lockdown,2020-03-23,2020-06-05
+Maharashtra,Institutional,2020-03-23,2020-06-05
+Maharashtra,Gathering,2020-03-23,2020-06-05
+Maharashtra,Essential Business,2020-03-23,2020-06-05
+Maine,Lockdown,,
+Maine,Institutional,,
+Maine,Gathering,,
+Maine,Essential Business,,
+Malawi,Institutional,,
+Malawi,Gathering,,
+Malaysia,Travel,2020-03-18,2020-06-10
+Malaysia,Lockdown,2020-03-18,2020-06-10
+Malaysia,Institutional,2020-03-18,2020-06-10
+Malaysia,Gathering,2020-03-18,2020-06-10
+Malaysia,Essential Business,2020-03-18,2020-06-10
+Maldives,Lockdown,,
+Maldives,Institutional,,
+Maldives,Gathering,,
+Maldives,Essential Business,,
+Mali,Institutional,,
+Mali,Gathering,,
+Mali,Essential Business,,
+Malta,Institutional,,
+Malta,Gathering,,
+Malta,Essential Business,,
+Malta,Non-Essential Business,,
+Manipur,Travel,2020-03-23,2020-05-04
+Manipur,Lockdown,2020-03-23,2020-05-04
+Manipur,Institutional,2020-03-23,2020-05-04
+Manipur,Gathering,2020-03-23,2020-05-04
+Manipur,Essential Business,2020-03-23,2020-05-04
+Manitoba,Institutional,,
+Manitoba,Gathering,,
+Manitoba,Essential Business,,
+Maranhão,Institutional,,
+Maranhão,Gathering,,
+Maranhão,Essential Business,,
+Marche,Travel,2020-03-22,2020-05-04
+Marche,Lockdown,2020-03-22,2020-05-04
+Marche,Institutional,2020-03-22,2020-05-04
+Marche,Gathering,2020-03-22,2020-05-04
+Marche,Essential Business,2020-03-22,2020-05-04
+Marche,Non-Essential Business,2020-03-22,2020-05-04
+Maryland,Lockdown,,
+Maryland,Institutional,,
+Maryland,Gathering,,
+Maryland,Essential Business,,
+Massachusetts,Institutional,,
+Massachusetts,Gathering,,
+Massachusetts,Essential Business,,
+Mato Grosso,Lockdown,,
+Mato Grosso,Institutional,,
+Mato Grosso,Gathering,,
+Mato Grosso,Essential Business,,
+Mato Grosso do Sul,Institutional,,
+Mato Grosso do Sul,Gathering,,
+Mauritania,Travel,2020-03-29,2020-07-10
+Mauritania,Institutional,2020-03-29,2020-07-10
+Mauritania,Gathering,2020-03-29,2020-07-10
+Mauritania,Essential Business,2020-03-29,2020-07-10
+Mauritius,Travel,2020-03-23,2020-05-30
+Mauritius,Lockdown,2020-03-23,2020-05-30
+Mauritius,Institutional,2020-03-23,2020-05-30
+Mauritius,Gathering,2020-03-23,2020-05-30
+Mauritius,Essential Business,2020-03-23,2020-05-30
+Mauritius,Non-Essential Business,2020-03-23,2020-05-30
+Mecklenburg-Vorpommern,Lockdown,,
+Mecklenburg-Vorpommern,Institutional,,
+Mecklenburg-Vorpommern,Gathering,,
+Mecklenburg-Vorpommern,Essential Business,,
+Meghalaya,Travel,2020-03-24,2020-05-11
+Meghalaya,Lockdown,2020-03-24,2020-05-11
+Meghalaya,Institutional,2020-03-24,2020-05-11
+Meghalaya,Gathering,2020-03-24,2020-05-11
+Meghalaya,Essential Business,2020-03-24,2020-05-11
+Mexico,Institutional,,
+Mexico,Gathering,,
+Mexico,Essential Business,,
+Mexico City,Lockdown,,
+Mexico City,Institutional,,
+Mexico City,Gathering,,
+Mexico City,Essential Business,,
+Michigan,Lockdown,,
+Michigan,Institutional,,
+Michigan,Gathering,,
+Michigan,Essential Business,,
+Michoacán de Ocampo,Lockdown,,
+Michoacán de Ocampo,Institutional,,
+Michoacán de Ocampo,Gathering,,
+Michoacán de Ocampo,Essential Business,,
+Minas Gerais,Institutional,,
+Minas Gerais,Gathering,,
+Minas Gerais,Essential Business,,
+Minnesota,Lockdown,,
+Minnesota,Institutional,,
+Minnesota,Gathering,,
+Minnesota,Essential Business,,
+Mississippi,Lockdown,,
+Mississippi,Institutional,,
+Mississippi,Gathering,,
+Mississippi,Essential Business,,
+Mississippi,Non-Essential Business,,
+Missouri,Lockdown,,
+Missouri,Institutional,,
+Missouri,Gathering,,
+Missouri,Essential Business,,
+Molise,Travel,2020-03-22,2020-05-04
+Molise,Lockdown,2020-03-22,2020-05-04
+Molise,Institutional,2020-03-22,2020-05-04
+Molise,Gathering,2020-03-22,2020-05-04
+Molise,Essential Business,2020-03-22,2020-05-04
+Molise,Non-Essential Business,2020-03-22,2020-05-04
+Montana,Lockdown,,
+Montana,Institutional,,
+Montana,Gathering,,
+Montana,Essential Business,,
+Montana,Non-Essential Business,,
+Montenegro,Travel,2020-03-17,2020-05-04
+Montenegro,Institutional,2020-03-17,2020-05-04
+Montenegro,Gathering,2020-03-17,2020-05-04
+Montenegro,Essential Business,2020-03-17,2020-05-04
+Morelos,Lockdown,,
+Morelos,Institutional,,
+Morelos,Gathering,,
+Morelos,Essential Business,,
+Morocco,Travel,2020-03-20,2020-06-25
+Morocco,Lockdown,2020-03-20,2020-06-25
+Morocco,Institutional,2020-03-20,2020-06-25
+Morocco,Gathering,2020-03-20,2020-06-25
+Morocco,Essential Business,2020-03-20,2020-06-25
+Mozambique,Institutional,,
+Mozambique,Gathering,,
+Mozambique,Essential Business,,
+Murcia,Lockdown,,
+Murcia,Institutional,,
+Murcia,Gathering,,
+Murcia,Essential Business,,
+Myanmar,Travel,2020-03-12,
+Myanmar,Institutional,2020-03-12,
+Myanmar,Gathering,2020-03-12,
+Myanmar,Essential Business,2020-03-12,
+México,Lockdown,,
+México,Institutional,,
+México,Gathering,,
+México,Essential Business,,
+Nagaland,Travel,2020-03-18,2020-05-04
+Nagaland,Lockdown,2020-03-18,2020-05-04
+Nagaland,Institutional,2020-03-18,2020-05-04
+Nagaland,Gathering,2020-03-18,2020-05-04
+Nagaland,Essential Business,2020-03-18,2020-05-04
+Namibia,Lockdown,,
+Namibia,Institutional,,
+Namibia,Gathering,,
+Namibia,Essential Business,,
+Navarre,Lockdown,,
+Navarre,Institutional,,
+Navarre,Gathering,,
+Navarre,Essential Business,,
+Nayarit,Lockdown,,
+Nayarit,Institutional,,
+Nayarit,Gathering,,
+Nayarit,Essential Business,,
+Nebraska,Institutional,,
+Nebraska,Gathering,,
+Nebraska,Essential Business,,
+Nepal,Travel,2020-03-24,2020-06-15
+Nepal,Lockdown,2020-03-24,2020-06-15
+Nepal,Institutional,2020-03-24,2020-06-15
+Nepal,Gathering,2020-03-24,2020-06-15
+Nepal,Essential Business,2020-03-24,2020-06-15
+Netherlands,Institutional,,
+Netherlands,Gathering,,
+Netherlands,Essential Business,,
+Nevada,Lockdown,,
+Nevada,Institutional,,
+Nevada,Gathering,,
+Nevada,Essential Business,,
+New Hampshire,Lockdown,,
+New Hampshire,Institutional,,
+New Hampshire,Gathering,,
+New Hampshire,Essential Business,,
+New Hampshire,Non-Essential Business,,
+New Jersey,Lockdown,,
+New Jersey,Institutional,,
+New Jersey,Gathering,,
+New Jersey,Essential Business,,
+New Mexico,Institutional,,
+New Mexico,Gathering,,
+New Mexico,Essential Business,,
+New York,Lockdown,,
+New York,Institutional,,
+New York,Gathering,,
+New York,Essential Business,,
+New Zealand,Lockdown,,
+New Zealand,Institutional,,
+New Zealand,Gathering,,
+New Zealand,Essential Business,,
+New Zealand,Non-Essential Business,,
+Niger,Institutional,,
+Niger,Gathering,,
+Niger,Essential Business,,
+Nigeria,Institutional,,
+North Carolina,Lockdown,,
+North Carolina,Institutional,,
+North Carolina,Gathering,,
+North Carolina,Essential Business,,
+North Dakota,Institutional,,
+North Dakota,Essential Business,,
+North Macedonia,Lockdown,,
+North Macedonia,Institutional,,
+North Macedonia,Gathering,,
+North Macedonia,Essential Business,,
+North Rhine-Westphalia,Lockdown,,
+North Rhine-Westphalia,Institutional,,
+North Rhine-Westphalia,Gathering,,
+North Rhine-Westphalia,Essential Business,,
+Northern Ireland,Lockdown,,
+Northern Ireland,Institutional,,
+Northern Ireland,Gathering,,
+Northern Ireland,Essential Business,,
+Norway,Institutional,,
+Norway,Gathering,,
+Norway,Essential Business,,
+Nova Scotia,Institutional,,
+Nova Scotia,Gathering,,
+Nova Scotia,Essential Business,,
+Nuevo León,Lockdown,,
+Nuevo León,Institutional,,
+Nuevo León,Gathering,,
+Nuevo León,Essential Business,,
+Oaxaca,Lockdown,,
+Oaxaca,Institutional,,
+Oaxaca,Gathering,,
+Oaxaca,Essential Business,,
+Odisha,Travel,2020-03-24,2020-05-18
+Odisha,Lockdown,2020-03-24,2020-05-18
+Odisha,Institutional,2020-03-24,2020-05-18
+Odisha,Gathering,2020-03-24,2020-05-18
+Odisha,Essential Business,2020-03-24,2020-05-18
+Ohio,Lockdown,,
+Ohio,Institutional,,
+Ohio,Gathering,,
+Ohio,Essential Business,,
+Oklahoma,Institutional,,
+Oklahoma,Gathering,,
+Oklahoma,Essential Business,,
+Oklahoma,Non-Essential Business,,
+Oman,Institutional,,
+Oman,Gathering,,
+Oman,Essential Business,,
+Ontario,Institutional,,
+Ontario,Gathering,,
+Ontario,Essential Business,,
+Oregon,Lockdown,,
+Oregon,Institutional,,
+Oregon,Gathering,,
+Oregon,Essential Business,,
+Pakistan,Lockdown,,
+Pakistan,Institutional,,
+Pakistan,Gathering,,
+Pakistan,Essential Business,,
+Palestine,Travel,2020-03-22,2020-05-29
+Palestine,Lockdown,2020-03-22,2020-05-29
+Palestine,Institutional,2020-03-22,2020-05-29
+Palestine,Gathering,2020-03-22,2020-05-29
+Palestine,Essential Business,2020-03-22,2020-05-29
+Panama,Travel,2020-03-13,2020-06-01
+Panama,Lockdown,2020-03-13,2020-06-01
+Panama,Institutional,2020-03-13,2020-06-01
+Panama,Gathering,2020-03-13,2020-06-01
+Panama,Essential Business,2020-03-13,2020-06-01
+Paraguay,Lockdown,,
+Paraguay,Institutional,,
+Paraguay,Gathering,,
+Paraguay,Essential Business,,
+Paraná,Institutional,,
+Paraná,Gathering,,
+Paraná,Essential Business,,
+Paraíba,Institutional,,
+Paraíba,Gathering,,
+Paraíba,Essential Business,,
+Pará,Travel,2020-04-06,
+Pará,Institutional,2020-04-06,
+Pará,Gathering,2020-04-06,
+Pará,Essential Business,2020-04-06,
+Pennsylvania,Lockdown,,
+Pennsylvania,Institutional,,
+Pennsylvania,Gathering,,
+Pennsylvania,Essential Business,,
+Pennsylvania,Non-Essential Business,,
+Pernambuco,Institutional,,
+Pernambuco,Essential Business,,
+Peru,Lockdown,,
+Peru,Institutional,,
+Peru,Gathering,,
+Peru,Essential Business,,
+Philippines,Institutional,,
+Piaui,Institutional,,
+Piaui,Gathering,,
+Piaui,Essential Business,,
+Piemonte,Travel,2020-03-22,2020-05-04
+Piemonte,Lockdown,2020-03-22,2020-05-04
+Piemonte,Institutional,2020-03-22,2020-05-04
+Piemonte,Gathering,2020-03-22,2020-05-04
+Piemonte,Essential Business,2020-03-22,2020-05-04
+Piemonte,Non-Essential Business,2020-03-22,2020-05-04
+Poland,Lockdown,,
+Poland,Institutional,,
+Poland,Gathering,,
+Poland,Essential Business,,
+Portugal,Travel,2020-04-09,2020-05-02
+Portugal,Lockdown,2020-04-09,2020-05-02
+Portugal,Institutional,2020-04-09,2020-05-02
+Portugal,Gathering,2020-04-09,2020-05-02
+Portugal,Essential Business,2020-04-09,2020-05-02
+Provincia autonoma di Bolzano,Travel,2020-03-22,2020-05-04
+Provincia autonoma di Bolzano,Lockdown,2020-03-22,2020-05-04
+Provincia autonoma di Bolzano,Institutional,2020-03-22,2020-05-04
+Provincia autonoma di Bolzano,Gathering,2020-03-22,2020-05-04
+Provincia autonoma di Bolzano,Essential Business,2020-03-22,2020-05-04
+Provincia autonoma di Bolzano,Non-Essential Business,2020-03-22,2020-05-04
+Provincia autonoma di Trento,Travel,2020-03-22,2020-05-04
+Provincia autonoma di Trento,Lockdown,2020-03-22,2020-05-04
+Provincia autonoma di Trento,Institutional,2020-03-22,2020-05-04
+Provincia autonoma di Trento,Gathering,2020-03-22,2020-05-04
+Provincia autonoma di Trento,Essential Business,2020-03-22,2020-05-04
+Provincia autonoma di Trento,Non-Essential Business,2020-03-22,2020-05-04
+Puebla,Lockdown,,
+Puebla,Institutional,,
+Puebla,Gathering,,
+Puebla,Essential Business,,
+Puerto Rico,Lockdown,,
+Puerto Rico,Institutional,,
+Puerto Rico,Gathering,,
+Puerto Rico,Essential Business,,
+Puerto Rico,Non-Essential Business,,
+Puglia,Travel,2020-03-22,2020-05-04
+Puglia,Lockdown,2020-03-22,2020-05-04
+Puglia,Institutional,2020-03-22,2020-05-04
+Puglia,Gathering,2020-03-22,2020-05-04
+Puglia,Essential Business,2020-03-22,2020-05-04
+Puglia,Non-Essential Business,2020-03-22,2020-05-04
+Punjab,Travel,2020-03-23,2020-05-20
+Punjab,Lockdown,2020-03-23,2020-05-20
+Punjab,Institutional,2020-03-23,2020-05-20
+Punjab,Gathering,2020-03-23,2020-05-20
+Punjab,Essential Business,2020-03-23,2020-05-20
+Punjab,Lockdown,,
+Punjab,Institutional,,
+Punjab,Gathering,,
+Punjab,Essential Business,,
+Qatar,Institutional,,
+Qatar,Gathering,,
+Qatar,Essential Business,,
+Quebec,Institutional,,
+Quebec,Gathering,,
+Quebec,Essential Business,,
+Querétaro,Lockdown,,
+Querétaro,Institutional,,
+Querétaro,Gathering,,
+Querétaro,Essential Business,,
+Quintana Roo,Lockdown,,
+Quintana Roo,Institutional,,
+Quintana Roo,Gathering,,
+Quintana Roo,Essential Business,,
+Rajasthan,Travel,2020-03-22,2020-05-25
+Rajasthan,Lockdown,2020-03-22,2020-05-25
+Rajasthan,Institutional,2020-03-22,2020-05-25
+Rajasthan,Gathering,2020-03-22,2020-05-25
+Rajasthan,Essential Business,2020-03-22,2020-05-25
+Republic of Korea,Institutional,,
+Republic of Korea,Essential Business,,
+Republic of Moldova,Lockdown,,
+Republic of Moldova,Institutional,,
+Republic of Moldova,Gathering,,
+Republic of Moldova,Essential Business,,
+Rhineland-Palatinate,Lockdown,,
+Rhineland-Palatinate,Institutional,,
+Rhineland-Palatinate,Gathering,,
+Rhineland-Palatinate,Essential Business,,
+Rhode Island,Lockdown,,
+Rhode Island,Institutional,,
+Rhode Island,Gathering,,
+Rhode Island,Essential Business,,
+Rio Grande do Norte,Travel,2020-06-04,
+Rio Grande do Norte,Institutional,2020-06-04,
+Rio Grande do Norte,Gathering,2020-06-04,
+Rio Grande do Norte,Essential Business,2020-06-04,
+Rio Grande do Sul,Institutional,,
+Rio Grande do Sul,Gathering,,
+Rio Grande do Sul,Essential Business,,
+Rio de Janeiro,Lockdown,,
+Rio de Janeiro,Institutional,,
+Rio de Janeiro,Gathering,,
+Rio de Janeiro,Essential Business,,
+Romania,Lockdown,,
+Romania,Institutional,,
+Romania,Gathering,,
+Romania,Essential Business,,
+Rondônia,Institutional,,
+Rondônia,Gathering,,
+Rondônia,Essential Business,,
+Roraima,Institutional,,
+Roraima,Gathering,,
+Roraima,Essential Business,,
+Russian Federation,Institutional,,
+Russian Federation,Essential Business,,
+Rwanda,Travel,2020-03-21,
+Rwanda,Lockdown,2020-03-21,
+Rwanda,Institutional,2020-03-21,
+Rwanda,Gathering,2020-03-21,
+Rwanda,Essential Business,2020-03-21,
+Saarland,Lockdown,,
+Saarland,Institutional,,
+Saarland,Gathering,,
+Saarland,Essential Business,,
+San Luis Potosí,Lockdown,,
+San Luis Potosí,Institutional,,
+San Luis Potosí,Gathering,,
+San Luis Potosí,Essential Business,,
+San Marino,Institutional,,
+San Marino,Gathering,,
+San Marino,Essential Business,,
+Santa Catarina,Institutional,,
+Santa Catarina,Gathering,,
+Santa Catarina,Essential Business,,
+Sao Tome and Principe,Institutional,,
+Sao Tome and Principe,Gathering,,
+Sao Tome and Principe,Essential Business,,
+Sardegna,Travel,2020-03-22,2020-05-04
+Sardegna,Lockdown,2020-03-22,2020-05-04
+Sardegna,Institutional,2020-03-22,2020-05-04
+Sardegna,Gathering,2020-03-22,2020-05-04
+Sardegna,Essential Business,2020-03-22,2020-05-04
+Sardegna,Non-Essential Business,2020-03-22,2020-05-04
+Saskatchewan,Institutional,,
+Saskatchewan,Gathering,,
+Saskatchewan,Essential Business,,
+Saudi Arabia,Travel,2020-03-26,2020-05-31
+Saudi Arabia,Lockdown,2020-03-26,2020-05-31
+Saudi Arabia,Institutional,2020-03-26,2020-05-31
+Saudi Arabia,Gathering,2020-03-26,2020-05-31
+Saudi Arabia,Essential Business,2020-03-26,2020-05-31
+Saxony,Lockdown,,
+Saxony,Institutional,,
+Saxony,Gathering,,
+Saxony,Essential Business,,
+Saxony-Anhalt,Lockdown,,
+Saxony-Anhalt,Institutional,,
+Saxony-Anhalt,Gathering,,
+Saxony-Anhalt,Essential Business,,
+Schleswig-Holstein,Lockdown,,
+Schleswig-Holstein,Institutional,,
+Schleswig-Holstein,Gathering,,
+Schleswig-Holstein,Essential Business,,
+Scotland,Lockdown,,
+Scotland,Institutional,,
+Scotland,Gathering,,
+Scotland,Essential Business,,
+Senegal,Institutional,,
+Senegal,Gathering,,
+Serbia,Travel,2020-03-21,2020-04-23
+Serbia,Lockdown,2020-03-21,2020-04-23
+Serbia,Institutional,2020-03-21,2020-04-23
+Serbia,Gathering,2020-03-21,2020-04-23
+Serbia,Essential Business,2020-03-21,2020-04-23
+Sergipe,Institutional,,
+Sergipe,Gathering,,
+Sergipe,Essential Business,,
+Shandong,Travel,2020-02-04,2020-02-18
+Shandong,Lockdown,2020-02-04,2020-02-18
+Shandong,Institutional,2020-02-04,2020-02-18
+Shandong,Gathering,2020-02-04,2020-02-18
+Shandong,Essential Business,2020-02-04,2020-02-18
+Shandong,Non-Essential Business,2020-02-04,2020-02-18
+Shanghai,Travel,2020-02-10,2020-03-24
+Shanghai,Lockdown,2020-02-10,2020-03-24
+Shanghai,Institutional,2020-02-10,2020-03-24
+Shanghai,Gathering,2020-02-10,2020-03-24
+Shanghai,Essential Business,2020-02-10,2020-03-24
+Shanghai,Non-Essential Business,2020-02-10,2020-03-24
+Sicilia,Travel,2020-03-22,2020-05-04
+Sicilia,Lockdown,2020-03-22,2020-05-04
+Sicilia,Institutional,2020-03-22,2020-05-04
+Sicilia,Gathering,2020-03-22,2020-05-04
+Sicilia,Essential Business,2020-03-22,2020-05-04
+Sicilia,Non-Essential Business,2020-03-22,2020-05-04
+Sierra Leone,Lockdown,,
+Sierra Leone,Institutional,,
+Sierra Leone,Gathering,,
+Sierra Leone,Essential Business,,
+Sinaloa,Institutional,,
+Sinaloa,Gathering,,
+Sinaloa,Essential Business,,
+Sindh,Lockdown,,
+Sindh,Institutional,,
+Sindh,Gathering,,
+Sindh,Essential Business,,
+Singapore,Lockdown,,
+Singapore,Institutional,,
+Singapore,Gathering,,
+Singapore,Essential Business,,
+Slovakia,Travel,2020-04-08,2020-04-14
+Slovakia,Institutional,2020-04-08,2020-04-14
+Slovakia,Gathering,2020-04-08,2020-04-14
+Slovakia,Essential Business,2020-04-08,2020-04-14
+Slovakia,Non-Essential Business,2020-04-08,2020-04-14
+Slovenia,Travel,2020-03-16,2020-04-30
+Slovenia,Institutional,2020-03-16,2020-04-30
+Slovenia,Gathering,2020-03-16,2020-04-30
+Slovenia,Essential Business,2020-03-16,2020-04-30
+Somalia,Institutional,,
+Somalia,Gathering,,
+Sonora,Lockdown,,
+Sonora,Institutional,,
+Sonora,Gathering,,
+Sonora,Essential Business,,
+South Africa,Travel,2020-03-27,
+South Africa,Lockdown,2020-03-27,
+South Africa,Institutional,2020-03-27,
+South Africa,Gathering,2020-03-27,
+South Africa,Essential Business,2020-03-27,
+South Carolina,Lockdown,,
+South Carolina,Institutional,,
+South Carolina,Gathering,,
+South Carolina,Essential Business,,
+South Dakota,Institutional,,
+South Dakota,Gathering,,
+South Sudan,Travel,2020-04-12,
+South Sudan,Lockdown,2020-04-12,
+South Sudan,Institutional,2020-04-12,
+South Sudan,Gathering,2020-04-12,
+South Sudan,Essential Business,2020-04-12,
+Sri Lanka,Travel,2020-03-24,2020-04-27
+Sri Lanka,Institutional,2020-03-24,2020-04-27
+Sri Lanka,Gathering,2020-03-24,2020-04-27
+Sri Lanka,Essential Business,2020-03-24,2020-04-27
+Sudan,Travel,2020-04-12,
+Sudan,Lockdown,2020-04-12,
+Sudan,Institutional,2020-04-12,
+Sudan,Gathering,2020-04-12,
+Suriname,Lockdown,,
+Suriname,Institutional,,
+Suriname,Gathering,,
+Suriname,Essential Business,,
+Sweden,Gathering,,
+Switzerland,Institutional,,
+Switzerland,Gathering,,
+Switzerland,Essential Business,,
+Syrian Arab Republic,Travel,2020-03-23,2020-05-10
+Syrian Arab Republic,Institutional,2020-03-23,2020-05-10
+Syrian Arab Republic,Gathering,2020-03-23,2020-05-10
+Syrian Arab Republic,Essential Business,2020-03-23,2020-05-10
+São Paulo,Institutional,,
+São Paulo,Gathering,,
+São Paulo,Essential Business,,
+Tabasco,Institutional,,
+Tabasco,Gathering,,
+Tabasco,Essential Business,,
+Taiwan (Province of China),Institutional,,
+Tajikistan,Institutional,,
+Tajikistan,Gathering,,
+Tamaulipas,Lockdown,,
+Tamaulipas,Institutional,,
+Tamaulipas,Gathering,,
+Tamaulipas,Essential Business,,
+Tamil Nadu,Travel,2020-03-24,2020-04-29
+Tamil Nadu,Lockdown,2020-03-24,2020-04-29
+Tamil Nadu,Institutional,2020-03-24,2020-04-29
+Tamil Nadu,Gathering,2020-03-24,2020-04-29
+Tamil Nadu,Essential Business,2020-03-24,2020-04-29
+Telangana,Travel,2020-03-22,2020-05-19
+Telangana,Lockdown,2020-03-22,2020-05-19
+Telangana,Institutional,2020-03-22,2020-05-19
+Telangana,Gathering,2020-03-22,2020-05-19
+Telangana,Essential Business,2020-03-22,2020-05-19
+Tennessee,Lockdown,,
+Tennessee,Institutional,,
+Tennessee,Gathering,,
+Tennessee,Essential Business,,
+Texas,Lockdown,,
+Texas,Institutional,,
+Texas,Gathering,,
+Texas,Essential Business,,
+Thailand,Institutional,,
+Thuringia,Lockdown,,
+Thuringia,Institutional,,
+Thuringia,Gathering,,
+Thuringia,Essential Business,,
+Tlaxcala,Institutional,,
+Tlaxcala,Gathering,,
+Tlaxcala,Essential Business,,
+Tocantins,Institutional,,
+Tocantins,Gathering,,
+Tocantins,Essential Business,,
+Togo,Institutional,,
+Togo,Gathering,,
+Togo,Essential Business,,
+Toscana,Travel,2020-03-22,2020-05-04
+Toscana,Lockdown,2020-03-22,2020-05-04
+Toscana,Institutional,2020-03-22,2020-05-04
+Toscana,Gathering,2020-03-22,2020-05-04
+Toscana,Essential Business,2020-03-22,2020-05-04
+Toscana,Non-Essential Business,2020-03-22,2020-05-04
+Trinidad and Tobago,Lockdown,,
+Trinidad and Tobago,Institutional,,
+Trinidad and Tobago,Gathering,,
+Trinidad and Tobago,Essential Business,,
+Tripura,Travel,2020-03-24,2020-05-18
+Tripura,Lockdown,2020-03-24,2020-05-18
+Tripura,Institutional,2020-03-24,2020-05-18
+Tripura,Gathering,2020-03-24,2020-05-18
+Tripura,Essential Business,2020-03-24,2020-05-18
+Tunisia,Lockdown,,
+Tunisia,Institutional,,
+Tunisia,Gathering,,
+Tunisia,Essential Business,,
+Tunisia,Non-Essential Business,,
+Turkey,Institutional,,
+Turkey,Gathering,,
+Turkey,Essential Business,,
+Uganda,Travel,2020-03-30,2020-05-26
+Uganda,Lockdown,2020-03-30,2020-05-26
+Uganda,Institutional,2020-03-30,2020-05-26
+Uganda,Gathering,2020-03-30,2020-05-26
+Uganda,Essential Business,2020-03-30,2020-05-26
+Ukraine,Lockdown,,
+Ukraine,Institutional,,
+Ukraine,Gathering,,
+Ukraine,Essential Business,,
+Umbria,Travel,2020-03-22,2020-05-04
+Umbria,Lockdown,2020-03-22,2020-05-04
+Umbria,Institutional,2020-03-22,2020-05-04
+Umbria,Gathering,2020-03-22,2020-05-04
+Umbria,Essential Business,2020-03-22,2020-05-04
+Umbria,Non-Essential Business,2020-03-22,2020-05-04
+United Arab Emirates,Lockdown,,
+United Arab Emirates,Institutional,,
+United Arab Emirates,Gathering,,
+United Arab Emirates,Essential Business,,
+United Kingdom,Lockdown,,
+United Kingdom,Institutional,,
+United Kingdom,Gathering,,
+United Kingdom,Essential Business,,
+United States Virgin Islands,Lockdown,,
+United States Virgin Islands,Institutional,,
+United States Virgin Islands,Gathering,,
+United States Virgin Islands,Essential Business,,
+United States Virgin Islands,Non-Essential Business,,
+Uruguay,Institutional,,
+Uruguay,Essential Business,,
+Utah,Institutional,,
+Utah,Gathering,,
+Utah,Essential Business,,
+Uttar Pradesh,Travel,2020-03-25,2020-05-20
+Uttar Pradesh,Lockdown,2020-03-25,2020-05-20
+Uttar Pradesh,Institutional,2020-03-25,2020-05-20
+Uttar Pradesh,Gathering,2020-03-25,2020-05-20
+Uttar Pradesh,Essential Business,2020-03-25,2020-05-20
+Uttarakhand,Travel,2020-03-22,2020-05-04
+Uttarakhand,Lockdown,2020-03-22,2020-05-04
+Uttarakhand,Institutional,2020-03-22,2020-05-04
+Uttarakhand,Gathering,2020-03-22,2020-05-04
+Uttarakhand,Essential Business,2020-03-22,2020-05-04
+Uzbekistan,Travel,2020-03-27,2020-05-18
+Uzbekistan,Lockdown,2020-03-27,2020-05-18
+Uzbekistan,Institutional,2020-03-27,2020-05-18
+Uzbekistan,Gathering,2020-03-27,2020-05-18
+Uzbekistan,Essential Business,2020-03-27,2020-05-18
+Valencian Community,Lockdown,,
+Valencian Community,Institutional,,
+Valencian Community,Gathering,,
+Valencian Community,Essential Business,,
+Valle d'Aosta,Travel,2020-03-22,2020-05-04
+Valle d'Aosta,Lockdown,2020-03-22,2020-05-04
+Valle d'Aosta,Institutional,2020-03-22,2020-05-04
+Valle d'Aosta,Gathering,2020-03-22,2020-05-04
+Valle d'Aosta,Essential Business,2020-03-22,2020-05-04
+Valle d'Aosta,Non-Essential Business,2020-03-22,2020-05-04
+Veneto,Travel,2020-03-22,2020-05-04
+Veneto,Lockdown,2020-03-22,2020-05-04
+Veneto,Institutional,2020-03-22,2020-05-04
+Veneto,Gathering,2020-03-22,2020-05-04
+Veneto,Essential Business,2020-03-22,2020-05-04
+Veneto,Non-Essential Business,2020-03-22,2020-05-04
+Venezuela (Bolivarian Republic of),Travel,2020-03-17,
+Venezuela (Bolivarian Republic of),Lockdown,2020-03-17,
+Venezuela (Bolivarian Republic of),Institutional,2020-03-17,
+Venezuela (Bolivarian Republic of),Gathering,2020-03-17,
+Venezuela (Bolivarian Republic of),Essential Business,2020-03-17,
+Veracruz de Ignacio de la Llave,Institutional,,
+Veracruz de Ignacio de la Llave,Gathering,,
+Veracruz de Ignacio de la Llave,Essential Business,,
+Vermont,Lockdown,,
+Vermont,Institutional,,
+Vermont,Gathering,,
+Vermont,Essential Business,,
+Virginia,Lockdown,,
+Virginia,Institutional,,
+Virginia,Gathering,,
+Virginia,Essential Business,,
+Wales,Travel,2020-06-01,2020-07-06
+Wales,Lockdown,2020-06-01,2020-07-06
+Wales,Institutional,2020-06-01,2020-07-06
+Wales,Gathering,2020-06-01,2020-07-06
+Wales,Essential Business,2020-06-01,2020-07-06
+Washington,Lockdown,,
+Washington,Institutional,,
+Washington,Gathering,,
+Washington,Essential Business,,
+West Bengal,Travel,2020-03-24,2020-05-05
+West Bengal,Lockdown,2020-03-24,2020-05-05
+West Bengal,Institutional,2020-03-24,2020-05-05
+West Bengal,Gathering,2020-03-24,2020-05-05
+West Bengal,Essential Business,2020-03-24,2020-05-05
+West Virginia,Lockdown,,
+West Virginia,Institutional,,
+West Virginia,Gathering,,
+West Virginia,Essential Business,,
+Wisconsin,Lockdown,,
+Wisconsin,Institutional,,
+Wisconsin,Gathering,,
+Wisconsin,Essential Business,,
+Wyoming,Institutional,,
+Wyoming,Gathering,,
+Wyoming,Essential Business,,
+Yemen,Institutional,,
+Yucatán,Lockdown,,
+Yucatán,Institutional,,
+Yucatán,Gathering,,
+Yucatán,Essential Business,,
+Zacatecas,Lockdown,,
+Zacatecas,Institutional,,
+Zacatecas,Gathering,,
+Zacatecas,Essential Business,,
+Zambia,Institutional,,
+Zambia,Gathering,,
+Zambia,Essential Business,,
+Zimbabwe,Lockdown,,
+Zimbabwe,Institutional,,
+Zimbabwe,Gathering,,
+Zimbabwe,Essential Business,,
