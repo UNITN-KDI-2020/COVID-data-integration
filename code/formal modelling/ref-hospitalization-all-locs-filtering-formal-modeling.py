@@ -16,7 +16,7 @@ hospitalization_all_loc.drop(['location_id', 'date', 'admis_mean', 'deaths_mean'
                              'totdea_mean', 'deaths_mean_smoothed', 'deaths_lower_smoothed', 
                              'deaths_upper_smoothed', 'totdea_mean_smoothed', 'totdea_lower_smoothed', 
                              'totdea_upper_smoothed', 'mobility_data_type', 'mobility_composite', 
-                             'total_tests_data_type', 'confirmed_infections',
+                             'total_tests_data_type', 'confirmed_infections', 'est_infections_mean',
                              'confirmed_infections_p100k_rate', 'est_infections_mean_p100k_rate', 'est_infections_lower_p100k_rate', 'est_infections_upper_p100k_rate'],
                               inplace=True, axis=1)
 
