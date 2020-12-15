@@ -13,5 +13,8 @@ stato_clinico['year'] = pd.DatetimeIndex(stato_clinico['giorno']).year
 stato_clinico['month'] = pd.DatetimeIndex(stato_clinico['giorno']).month
 stato_clinico['day'] = pd.DatetimeIndex(stato_clinico['giorno']).day
 
+stato_clinico.drop(['giorno', 'pos_att', 'casa_cura'], inplace=True, axis=1)
+
+
 stato_clinico.to_csv(
     r"../../dataset/Formal Modeling/data/stato_clinico_td.csv", index=False)
