@@ -32,15 +32,13 @@
             "@type": "@id"
         },
         "ColumnNames": [
-            "giorno",
             "guariti",
             "deceduti",
-            "totale_pos",
             "pos_att",
             "rsa",
-            "casa_cura",
-            "tot_rsa",
-            "tot_dime"
+            "year",
+            "month",
+            "day"
         ],
         "SourceDatasetURL": {
             "@id": "https://github.com/UNITN-KDI-2020/COVID-data-integration/blob/master/dataset/Informal%20Modeling/data/stato_clinico_td.csv",

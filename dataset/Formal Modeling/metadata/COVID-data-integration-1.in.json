@@ -35,10 +35,12 @@
             "@type" : "@id"
         },
         "ColumnNames": [
-            "dateRep",
             "cases",
             "deaths",
-            "countriesAndTerritories"
+            "countriesAndTerritories",
+            "year",
+            "month",
+            "day"
         ],
         "SourceDatasetURL": {
             "@id": "https://github.com/UNITN-KDI-2020/COVID-data-integration/blob/master/dataset/Informal%20Modeling/data/COVID-19-geographic-disbtribution-worldwide.csv",

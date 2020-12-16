@@ -35,19 +35,9 @@
         },
         "ColumnNames": [
             "location_name",
-            "location_id",
-            "travel_limit_start_date",
-            "travel_limit_end_date",
-            "stay_home_start_date",
-            "stay_home_end_date",
-            "educational_fac_start_date",
-            "educational_fac_end_date",
-            "any_gathering_restrict_start_date",
-            "any_gathering_restrict_end_date",
-            "any_business_start_date",
-            "any_business_end_date",
-            "all_non-ess_business_start_date",
-            "all_non-ess_business_end_date"
+            "restriction_type",
+            "closure_start",
+            "closure_end"
         ],
         "SourceDatasetURL": {
             "@id": "https://github.com/UNITN-KDI-2020/COVID-data-integration/blob/master/dataset/Informal%20Modeling/data/Summary_stats_all_locs.csv",
