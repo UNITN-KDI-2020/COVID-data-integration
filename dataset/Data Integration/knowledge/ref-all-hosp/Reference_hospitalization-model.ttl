@@ -1,0 +1,721 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix etype: <http://knowdive.disi.unitn.it/etype#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix km-dev: <http://isi.edu/integration/karma/dev#> .
+
+_:node1epnds285x1 a km-dev:R2RMLMapping ;
+	km-dev:sourceName "Reference_hospitalization_part1.csv" ;
+	km-dev:modelPublicationTime "1608177813765"^^xsd:long ;
+	km-dev:modelVersion "1.7" ;
+	km-dev:hasInputColumns "[[{\"columnName\":\"location_name\"}],[{\"columnName\":\"est_infections_upper\"}],[{\"columnName\":\"est_infections_lower\"}],[{\"columnName\":\"month\"}],[{\"columnName\":\"year\"}],[{\"columnName\":\"day\"}]]" ;
+	km-dev:hasOutputColumns "[[{\"columnName\":\"location_name\"}],[{\"columnName\":\"est_infections_upper\"}],[{\"columnName\":\"est_infections_lower\"}],[{\"columnName\":\"month\"}],[{\"columnName\":\"year\"}],[{\"columnName\":\"day\"}]]" ;
+	km-dev:hasModelLabel "Reference_hospitalization_part1.csv" ;
+	km-dev:hasBaseURI "http://localhost:8080/source/" ;
+	km-dev:hasWorksheetHistory """[
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"location_name\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Location_GID-132\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Location_GID-1321\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-132\",
+                    \"DomainLabel\": \"etype:Location_GID-1321 (add)\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"location_name\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"location_name\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"est_infections_lower\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#CasesProjection_GID-120046\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#CasesProjection_GID-1200461\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_lower_bound_pos_GID-120094_Type-120046\",
+                    \"DomainLabel\": \"etype:CasesProjection_GID-1200461 (add)\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"est_infections_lower\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"est_infections_lower\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"est_infections_upper\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#CasesProjection_GID-120046\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#CasesProjection_GID-1200461\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_upper_bound_pos_GID-120095_Type-120046\",
+                    \"DomainLabel\": \"etype:CasesProjection_GID-1200461\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"est_infections_upper\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"est_infections_upper\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"year\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Date_GID-103420\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Date_GID-1034201\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_year_GID-80976_Type-103420\",
+                    \"DomainLabel\": \"etype:Date_GID-1034201 (add)\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"year\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"year\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"month\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Date_GID-103420\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Date_GID-1034201\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_month_GID-80988_Type-103420\",
+                    \"DomainLabel\": \"etype:Date_GID-1034201\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"month\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"month\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"day\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Date_GID-103420\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Date_GID-1034201\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_day_GID-81001_Type-103420\",
+                    \"DomainLabel\": \"etype:Date_GID-1034201\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"day\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"day\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"AddLinkCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"edge\",
+                \"type\": \"other\",
+                \"value\": {
+                    \"edgeTargetId\": \"http://knowdive.disi.unitn.it/etype#CasesProjection_GID-1200461\",
+                    \"edgeId\": \"http://knowdive.disi.unitn.it/etype#has_has_GID-120046_Type-120044\",
+                    \"edgeTargetUri\": \"http://knowdive.disi.unitn.it/etype#CasesProjection_GID-120046\",
+                    \"edgeSourceId\": \"http://knowdive.disi.unitn.it/etype#CasesInformation_GID-1200441\",
+                    \"edgeSourceUri\": \"http://knowdive.disi.unitn.it/etype#CasesInformation_GID-120044\"
+                }
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[]\"
+            }
+        ],
+        \"tags\": [\"Modeling\"]
+    },
+    {
+        \"commandName\": \"AddLinkCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"edge\",
+                \"type\": \"other\",
+                \"value\": {
+                    \"edgeTargetId\": \"http://knowdive.disi.unitn.it/etype#Location_GID-1321\",
+                    \"edgeId\": \"http://knowdive.disi.unitn.it/etype#has_is_in_GID-132_Type-120044\",
+                    \"edgeTargetUri\": \"http://knowdive.disi.unitn.it/etype#Location_GID-132\",
+                    \"edgeSourceId\": \"http://knowdive.disi.unitn.it/etype#CasesInformation_GID-1200441\",
+                    \"edgeSourceUri\": \"http://knowdive.disi.unitn.it/etype#CasesInformation_GID-120044\"
+                }
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[]\"
+            }
+        ],
+        \"tags\": [\"Modeling\"]
+    },
+    {
+        \"commandName\": \"AddLinkCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"edge\",
+                \"type\": \"other\",
+                \"value\": {
+                    \"edgeTargetId\": \"http://knowdive.disi.unitn.it/etype#Date_GID-1034201\",
+                    \"edgeId\": \"http://knowdive.disi.unitn.it/etype#has_is_on_GID-103420_Type-120044\",
+                    \"edgeTargetUri\": \"http://knowdive.disi.unitn.it/etype#Date_GID-103420\",
+                    \"edgeSourceId\": \"http://knowdive.disi.unitn.it/etype#CasesInformation_GID-1200441\",
+                    \"edgeSourceUri\": \"http://knowdive.disi.unitn.it/etype#CasesInformation_GID-120044\"
+                }
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[]\"
+            }
+        ],
+        \"tags\": [\"Modeling\"]
+    }
+]""" .
+
+km-dev:TriplesMap_9f0d9c49-0020-45f2-91bd-6df2a1dee177 a rr:TriplesMap .
+
+_:node1epnds285x1 km-dev:hasTriplesMap km-dev:TriplesMap_9f0d9c49-0020-45f2-91bd-6df2a1dee177 .
+
+km-dev:TriplesMap_9f0d9c49-0020-45f2-91bd-6df2a1dee177 km-dev:isPartOfMapping _:node1epnds285x1 .
+
+_:node1epnds285x2 rr:tableName "Reference_hospitalization_part1.csv" ;
+	a rr:LogicalTable ;
+	km-dev:isPartOfMapping _:node1epnds285x1 .
+
+_:node1epnds285x1 km-dev:hasLogicalTable _:node1epnds285x2 .
+
+km-dev:TriplesMap_9f0d9c49-0020-45f2-91bd-6df2a1dee177 rr:logicalTable _:node1epnds285x2 ;
+	rr:subjectMap _:node1epnds285x3 .
+
+_:node1epnds285x1 km-dev:hasSubjectMap _:node1epnds285x3 .
+
+_:node1epnds285x3 km-dev:isPartOfMapping _:node1epnds285x1 ;
+	a rr:SubjectMap ;
+	km-dev:alignmentNodeId "http://knowdive.disi.unitn.it/etype#CasesInformation_GID-1200441" ;
+	rr:class etype:CasesInformation_GID-120044 ;
+	rr:termType rr:BlankNode ;
+	km-dev:namePrefix "etype:CasesInformation_GID-1200441" ;
+	a km-dev:steinerTreeRootNode .
+
+km-dev:PredicateObjectMap_a3700fec-7868-4d2b-b800-fcb020fe48f4 rr:predicate etype:has_has_GID-120046_Type-120044 .
+
+km-dev:RefObjectMap_656249c5-84d8-4a2f-9948-a3a959440b16 a rr:RefObjectMap , rr:ObjectMap ;
+	rr:parentTriplesMap km-dev:TriplesMap_25f297c9-c64a-4053-9d8b-e29e877740fc ;
+	km-dev:isPartOfMapping _:node1epnds285x1 .
+
+_:node1epnds285x1 km-dev:hasObjectMap km-dev:RefObjectMap_656249c5-84d8-4a2f-9948-a3a959440b16 .
+
+km-dev:PredicateObjectMap_a3700fec-7868-4d2b-b800-fcb020fe48f4 rr:objectMap km-dev:RefObjectMap_656249c5-84d8-4a2f-9948-a3a959440b16 .
+
+km-dev:TriplesMap_9f0d9c49-0020-45f2-91bd-6df2a1dee177 rr:predicateObjectMap km-dev:PredicateObjectMap_a3700fec-7868-4d2b-b800-fcb020fe48f4 .
+
+km-dev:PredicateObjectMap_a3700fec-7868-4d2b-b800-fcb020fe48f4 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epnds285x1 .
+
+_:node1epnds285x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_a3700fec-7868-4d2b-b800-fcb020fe48f4 .
+
+km-dev:PredicateObjectMap_1b696d8b-02fd-4776-9e55-e5125ef35165 rr:predicate etype:has_is_on_GID-103420_Type-120044 .
+
+km-dev:RefObjectMap_1521f783-099b-449c-86de-ea9d8b6a4feb a rr:RefObjectMap , rr:ObjectMap ;
+	rr:parentTriplesMap km-dev:TriplesMap_fcdc5f44-f5e7-4db1-b09f-d77b6052201c ;
+	km-dev:isPartOfMapping _:node1epnds285x1 .
+
+_:node1epnds285x1 km-dev:hasObjectMap km-dev:RefObjectMap_1521f783-099b-449c-86de-ea9d8b6a4feb .
+
+km-dev:PredicateObjectMap_1b696d8b-02fd-4776-9e55-e5125ef35165 rr:objectMap km-dev:RefObjectMap_1521f783-099b-449c-86de-ea9d8b6a4feb .
+
+km-dev:TriplesMap_9f0d9c49-0020-45f2-91bd-6df2a1dee177 rr:predicateObjectMap km-dev:PredicateObjectMap_1b696d8b-02fd-4776-9e55-e5125ef35165 .
+
+km-dev:PredicateObjectMap_1b696d8b-02fd-4776-9e55-e5125ef35165 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epnds285x1 .
+
+_:node1epnds285x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_1b696d8b-02fd-4776-9e55-e5125ef35165 .
+
+km-dev:PredicateObjectMap_0212609a-59fc-4899-95af-225916bd30c1 rr:predicate etype:has_is_in_GID-132_Type-120044 .
+
+km-dev:RefObjectMap_807c393e-2aad-4523-834e-accb777ee544 a rr:RefObjectMap , rr:ObjectMap ;
+	rr:parentTriplesMap km-dev:TriplesMap_7089db9b-9f57-4b14-ac8b-4ea2bfa99dc8 ;
+	km-dev:isPartOfMapping _:node1epnds285x1 .
+
+_:node1epnds285x1 km-dev:hasObjectMap km-dev:RefObjectMap_807c393e-2aad-4523-834e-accb777ee544 .
+
+km-dev:PredicateObjectMap_0212609a-59fc-4899-95af-225916bd30c1 rr:objectMap km-dev:RefObjectMap_807c393e-2aad-4523-834e-accb777ee544 .
+
+km-dev:TriplesMap_9f0d9c49-0020-45f2-91bd-6df2a1dee177 rr:predicateObjectMap km-dev:PredicateObjectMap_0212609a-59fc-4899-95af-225916bd30c1 .
+
+km-dev:PredicateObjectMap_0212609a-59fc-4899-95af-225916bd30c1 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epnds285x1 .
+
+_:node1epnds285x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_0212609a-59fc-4899-95af-225916bd30c1 .
+
+km-dev:TriplesMap_25f297c9-c64a-4053-9d8b-e29e877740fc a rr:TriplesMap .
+
+_:node1epnds285x1 km-dev:hasTriplesMap km-dev:TriplesMap_25f297c9-c64a-4053-9d8b-e29e877740fc .
+
+km-dev:TriplesMap_25f297c9-c64a-4053-9d8b-e29e877740fc km-dev:isPartOfMapping _:node1epnds285x1 .
+
+_:node1epnds285x4 rr:tableName "Reference_hospitalization_part1.csv" ;
+	a rr:LogicalTable ;
+	km-dev:isPartOfMapping _:node1epnds285x1 .
+
+_:node1epnds285x1 km-dev:hasLogicalTable _:node1epnds285x4 .
+
+km-dev:TriplesMap_25f297c9-c64a-4053-9d8b-e29e877740fc rr:logicalTable _:node1epnds285x4 ;
+	rr:subjectMap _:node1epnds285x5 .
+
+_:node1epnds285x1 km-dev:hasSubjectMap _:node1epnds285x5 .
+
+_:node1epnds285x5 km-dev:isPartOfMapping _:node1epnds285x1 ;
+	a rr:SubjectMap ;
+	km-dev:alignmentNodeId "http://knowdive.disi.unitn.it/etype#CasesProjection_GID-1200461" ;
+	rr:class etype:CasesProjection_GID-120046 ;
+	rr:termType rr:BlankNode ;
+	km-dev:namePrefix "etype:CasesProjection_GID-1200461" .
+
+km-dev:PredicateObjectMap_15579e7a-0d03-4108-bae8-b2497795cc0c rr:predicate etype:has_upper_bound_pos_GID-120095_Type-120046 .
+
+_:node1epnds285x6 rr:column "est_infections_upper" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1epnds285x1 .
+
+_:node1epnds285x1 km-dev:hasObjectMap _:node1epnds285x6 .
+
+km-dev:PredicateObjectMap_15579e7a-0d03-4108-bae8-b2497795cc0c rr:objectMap _:node1epnds285x6 .
+
+km-dev:TriplesMap_25f297c9-c64a-4053-9d8b-e29e877740fc rr:predicateObjectMap km-dev:PredicateObjectMap_15579e7a-0d03-4108-bae8-b2497795cc0c .
+
+km-dev:PredicateObjectMap_15579e7a-0d03-4108-bae8-b2497795cc0c a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epnds285x1 .
+
+_:node1epnds285x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_15579e7a-0d03-4108-bae8-b2497795cc0c .
+
+km-dev:PredicateObjectMap_24de8793-44be-43ec-a9b0-e0aed3cc9920 rr:predicate etype:has_lower_bound_pos_GID-120094_Type-120046 .
+
+_:node1epnds285x7 rr:column "est_infections_lower" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1epnds285x1 .
+
+_:node1epnds285x1 km-dev:hasObjectMap _:node1epnds285x7 .
+
+km-dev:PredicateObjectMap_24de8793-44be-43ec-a9b0-e0aed3cc9920 rr:objectMap _:node1epnds285x7 .
+
+km-dev:TriplesMap_25f297c9-c64a-4053-9d8b-e29e877740fc rr:predicateObjectMap km-dev:PredicateObjectMap_24de8793-44be-43ec-a9b0-e0aed3cc9920 .
+
+km-dev:PredicateObjectMap_24de8793-44be-43ec-a9b0-e0aed3cc9920 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epnds285x1 .
+
+_:node1epnds285x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_24de8793-44be-43ec-a9b0-e0aed3cc9920 .
+
+km-dev:TriplesMap_fcdc5f44-f5e7-4db1-b09f-d77b6052201c a rr:TriplesMap .
+
+_:node1epnds285x1 km-dev:hasTriplesMap km-dev:TriplesMap_fcdc5f44-f5e7-4db1-b09f-d77b6052201c .
+
+km-dev:TriplesMap_fcdc5f44-f5e7-4db1-b09f-d77b6052201c km-dev:isPartOfMapping _:node1epnds285x1 .
+
+_:node1epnds285x8 rr:tableName "Reference_hospitalization_part1.csv" ;
+	a rr:LogicalTable ;
+	km-dev:isPartOfMapping _:node1epnds285x1 .
+
+_:node1epnds285x1 km-dev:hasLogicalTable _:node1epnds285x8 .
+
+km-dev:TriplesMap_fcdc5f44-f5e7-4db1-b09f-d77b6052201c rr:logicalTable _:node1epnds285x8 ;
+	rr:subjectMap _:node1epnds285x9 .
+
+_:node1epnds285x1 km-dev:hasSubjectMap _:node1epnds285x9 .
+
+_:node1epnds285x9 km-dev:isPartOfMapping _:node1epnds285x1 ;
+	a rr:SubjectMap ;
+	km-dev:alignmentNodeId "http://knowdive.disi.unitn.it/etype#Date_GID-1034201" ;
+	rr:class etype:Date_GID-103420 ;
+	rr:termType rr:BlankNode ;
+	km-dev:namePrefix "etype:Date_GID-1034201" .
+
+km-dev:PredicateObjectMap_34849531-f481-4f04-b8bb-0eb553f483f9 rr:predicate etype:has_month_GID-80988_Type-103420 .
+
+_:node1epnds285x10 rr:column "month" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1epnds285x1 .
+
+_:node1epnds285x1 km-dev:hasObjectMap _:node1epnds285x10 .
+
+km-dev:PredicateObjectMap_34849531-f481-4f04-b8bb-0eb553f483f9 rr:objectMap _:node1epnds285x10 .
+
+km-dev:TriplesMap_fcdc5f44-f5e7-4db1-b09f-d77b6052201c rr:predicateObjectMap km-dev:PredicateObjectMap_34849531-f481-4f04-b8bb-0eb553f483f9 .
+
+km-dev:PredicateObjectMap_34849531-f481-4f04-b8bb-0eb553f483f9 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epnds285x1 .
+
+_:node1epnds285x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_34849531-f481-4f04-b8bb-0eb553f483f9 .
+
+km-dev:PredicateObjectMap_96b0a902-ea60-4e4c-832e-261f685198c4 rr:predicate etype:has_year_GID-80976_Type-103420 .
+
+_:node1epnds285x11 rr:column "year" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1epnds285x1 .
+
+_:node1epnds285x1 km-dev:hasObjectMap _:node1epnds285x11 .
+
+km-dev:PredicateObjectMap_96b0a902-ea60-4e4c-832e-261f685198c4 rr:objectMap _:node1epnds285x11 .
+
+km-dev:TriplesMap_fcdc5f44-f5e7-4db1-b09f-d77b6052201c rr:predicateObjectMap km-dev:PredicateObjectMap_96b0a902-ea60-4e4c-832e-261f685198c4 .
+
+km-dev:PredicateObjectMap_96b0a902-ea60-4e4c-832e-261f685198c4 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epnds285x1 .
+
+_:node1epnds285x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_96b0a902-ea60-4e4c-832e-261f685198c4 .
+
+km-dev:PredicateObjectMap_03150f75-2959-47f0-ae77-643f568045da rr:predicate etype:has_day_GID-81001_Type-103420 .
+
+_:node1epnds285x12 rr:column "day" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1epnds285x1 .
+
+_:node1epnds285x1 km-dev:hasObjectMap _:node1epnds285x12 .
+
+km-dev:PredicateObjectMap_03150f75-2959-47f0-ae77-643f568045da rr:objectMap _:node1epnds285x12 .
+
+km-dev:TriplesMap_fcdc5f44-f5e7-4db1-b09f-d77b6052201c rr:predicateObjectMap km-dev:PredicateObjectMap_03150f75-2959-47f0-ae77-643f568045da .
+
+km-dev:PredicateObjectMap_03150f75-2959-47f0-ae77-643f568045da a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epnds285x1 .
+
+_:node1epnds285x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_03150f75-2959-47f0-ae77-643f568045da .
+
+km-dev:TriplesMap_7089db9b-9f57-4b14-ac8b-4ea2bfa99dc8 a rr:TriplesMap .
+
+_:node1epnds285x1 km-dev:hasTriplesMap km-dev:TriplesMap_7089db9b-9f57-4b14-ac8b-4ea2bfa99dc8 .
+
+km-dev:TriplesMap_7089db9b-9f57-4b14-ac8b-4ea2bfa99dc8 km-dev:isPartOfMapping _:node1epnds285x1 .
+
+_:node1epnds285x13 rr:tableName "Reference_hospitalization_part1.csv" ;
+	a rr:LogicalTable ;
+	km-dev:isPartOfMapping _:node1epnds285x1 .
+
+_:node1epnds285x1 km-dev:hasLogicalTable _:node1epnds285x13 .
+
+km-dev:TriplesMap_7089db9b-9f57-4b14-ac8b-4ea2bfa99dc8 rr:logicalTable _:node1epnds285x13 ;
+	rr:subjectMap _:node1epnds285x14 .
+
+_:node1epnds285x1 km-dev:hasSubjectMap _:node1epnds285x14 .
+
+_:node1epnds285x14 km-dev:isPartOfMapping _:node1epnds285x1 ;
+	a rr:SubjectMap ;
+	km-dev:alignmentNodeId "http://knowdive.disi.unitn.it/etype#Location_GID-1321" ;
+	rr:class etype:Location_GID-132 ;
+	rr:termType rr:BlankNode ;
+	km-dev:namePrefix "etype:Location_GID-1321" .
+
+km-dev:PredicateObjectMap_b06ee22c-03a3-4ebe-a4c2-cd56b85ec09d rr:predicate etype:has_name_GID-2_Type-132 .
+
+_:node1epnds285x15 rr:column "location_name" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1epnds285x1 .
+
+_:node1epnds285x1 km-dev:hasObjectMap _:node1epnds285x15 .
+
+km-dev:PredicateObjectMap_b06ee22c-03a3-4ebe-a4c2-cd56b85ec09d rr:objectMap _:node1epnds285x15 .
+
+km-dev:TriplesMap_7089db9b-9f57-4b14-ac8b-4ea2bfa99dc8 rr:predicateObjectMap km-dev:PredicateObjectMap_b06ee22c-03a3-4ebe-a4c2-cd56b85ec09d .
+
+km-dev:PredicateObjectMap_b06ee22c-03a3-4ebe-a4c2-cd56b85ec09d a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epnds285x1 .
+
+_:node1epnds285x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_b06ee22c-03a3-4ebe-a4c2-cd56b85ec09d .
