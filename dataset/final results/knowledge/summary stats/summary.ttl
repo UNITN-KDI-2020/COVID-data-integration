@@ -1,0 +1,127 @@
+_:etype_Date_GID-1034201_51dc5520cb645f4d4367100b5ce0e0934f3348c3_N19_da39a3ee5e6b4b0d3255bfef95601890afd80709_N18 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Date_GID-103420> .
+_:etype_RestrictionType_GID-1200481_a5a6072ff0ed2fabf17d91180c1b7325c29954c5_N77 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RestrictionType_GID-120048> .
+_:etype_Location_GID-1321_967ce367d89dccc133d71049f1197d29561b3726_N17 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-132> .
+_:etype_Date_GID-1034201_51dc5520cb645f4d4367100b5ce0e0934f3348c3_N19_da39a3ee5e6b4b0d3255bfef95601890afd80709_N18 <http://knowdive.disi.unitn.it/etype#has_class_GID-43482_Type-1> "3/25/2020" .
+_:etype_Restriction_GID-59231 <http://knowdive.disi.unitn.it/etype#has_is_in_GID-132_Type-5923> _:etype_Location_GID-1321_967ce367d89dccc133d71049f1197d29561b3726_N17 .
+_:etype_Restriction_GID-59231 <http://knowdive.disi.unitn.it/etype#has_has_GID-120048_Type-5923> _:etype_RestrictionType_GID-1200481_a5a6072ff0ed2fabf17d91180c1b7325c29954c5_N77 .
+_:etype_Restriction_GID-59231 <http://knowdive.disi.unitn.it/etype#has_is_on_GID-103420_Type_5923> _:etype_Date_GID-1034201_51dc5520cb645f4d4367100b5ce0e0934f3348c3_N19_da39a3ee5e6b4b0d3255bfef95601890afd80709_N18 .
+_:etype_RestrictionType_GID-1200481_a5a6072ff0ed2fabf17d91180c1b7325c29954c5_N77 <http://knowdive.disi.unitn.it/etype#has_class_GID-43482_Type-1> "{\"id\":\"1415\",\"kind\":\"CONCEPT\",\"probability\":0.1821267008781433,\"name\":{\"strings\":{\"eng\":[\"travel\"]}},\"description\":{\"strings\":{\"eng\":[\"the act of going from one place to another\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"travel\"}}"^^<http://www.w3.org/2001/XMLSchema#Concept> .
+_:etype_Location_GID-1321_967ce367d89dccc133d71049f1197d29561b3726_N17 <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-132> "India" .
+_:etype_Restriction_GID-59231 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Restriction_GID-5923> .
+
+_:etype_Date_GID-1034201_51dc5520cb645f4d4367100b5ce0e0934f3348c3_N24_da39a3ee5e6b4b0d3255bfef95601890afd80709_N23 <http://knowdive.disi.unitn.it/etype#has_class_GID-43482_Type-1> "3/25/2020" .
+_:etype_Location_GID-1321_967ce367d89dccc133d71049f1197d29561b3726_N22 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-132> .
+_:etype_RestrictionType_GID-1200481_eb4a53cecae3f6b27fec5fb108314b988a131fb4_N78 <http://knowdive.disi.unitn.it/etype#has_class_GID-43482_Type-1> "{\"id\":\"5813\",\"kind\":\"CONCEPT\",\"probability\":1.0,\"name\":{\"strings\":{\"eng\":[\"lockdown\"]}},\"description\":{\"strings\":{\"eng\":[\"the act of confining prisoners to their cells (usually to regain control during a riot)\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"lockdown\"}}"^^<http://www.w3.org/2001/XMLSchema#Concept> .
+_:etype_Restriction_GID-59231 <http://knowdive.disi.unitn.it/etype#has_is_on_GID-103420_Type_5923> _:etype_Date_GID-1034201_51dc5520cb645f4d4367100b5ce0e0934f3348c3_N24_da39a3ee5e6b4b0d3255bfef95601890afd80709_N23 .
+_:etype_RestrictionType_GID-1200481_eb4a53cecae3f6b27fec5fb108314b988a131fb4_N78 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RestrictionType_GID-120048> .
+_:etype_Location_GID-1321_967ce367d89dccc133d71049f1197d29561b3726_N22 <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-132> "India" .
+_:etype_Date_GID-1034201_51dc5520cb645f4d4367100b5ce0e0934f3348c3_N24_da39a3ee5e6b4b0d3255bfef95601890afd80709_N23 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Date_GID-103420> .
+_:etype_Restriction_GID-59231 <http://knowdive.disi.unitn.it/etype#has_has_GID-120048_Type-5923> _:etype_RestrictionType_GID-1200481_eb4a53cecae3f6b27fec5fb108314b988a131fb4_N78 .
+_:etype_Restriction_GID-59231 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Restriction_GID-5923> .
+_:etype_Restriction_GID-59231 <http://knowdive.disi.unitn.it/etype#has_is_in_GID-132_Type-5923> _:etype_Location_GID-1321_967ce367d89dccc133d71049f1197d29561b3726_N22 .
+
+_:etype_RestrictionType_GID-1200481_37dfe93f70c60d45731d3bccad31bb4360d08e64_N79 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RestrictionType_GID-120048> .
+_:etype_Date_GID-1034201_51dc5520cb645f4d4367100b5ce0e0934f3348c3_N29_da39a3ee5e6b4b0d3255bfef95601890afd80709_N28 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Date_GID-103420> .
+_:etype_Restriction_GID-59231 <http://knowdive.disi.unitn.it/etype#has_has_GID-120048_Type-5923> _:etype_RestrictionType_GID-1200481_37dfe93f70c60d45731d3bccad31bb4360d08e64_N79 .
+_:etype_Restriction_GID-59231 <http://knowdive.disi.unitn.it/etype#has_is_in_GID-132_Type-5923> _:etype_Location_GID-1321_967ce367d89dccc133d71049f1197d29561b3726_N27 .
+_:etype_Date_GID-1034201_51dc5520cb645f4d4367100b5ce0e0934f3348c3_N29_da39a3ee5e6b4b0d3255bfef95601890afd80709_N28 <http://knowdive.disi.unitn.it/etype#has_class_GID-43482_Type-1> "3/25/2020" .
+_:etype_RestrictionType_GID-1200481_37dfe93f70c60d45731d3bccad31bb4360d08e64_N79 <http://knowdive.disi.unitn.it/etype#has_class_GID-43482_Type-1> "{\"id\":\"89909\",\"kind\":\"CONCEPT\",\"probability\":0.639143705368042,\"name\":{\"strings\":{\"eng\":[\"institutional\"]}},\"description\":{\"strings\":{\"eng\":[\"relating to or constituting or involving an institution\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"institutional\"}}"^^<http://www.w3.org/2001/XMLSchema#Concept> .
+_:etype_Location_GID-1321_967ce367d89dccc133d71049f1197d29561b3726_N27 <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-132> "India" .
+_:etype_Restriction_GID-59231 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Restriction_GID-5923> .
+_:etype_Location_GID-1321_967ce367d89dccc133d71049f1197d29561b3726_N27 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-132> .
+_:etype_Restriction_GID-59231 <http://knowdive.disi.unitn.it/etype#has_is_on_GID-103420_Type_5923> _:etype_Date_GID-1034201_51dc5520cb645f4d4367100b5ce0e0934f3348c3_N29_da39a3ee5e6b4b0d3255bfef95601890afd80709_N28 .
+
+_:etype_RestrictionType_GID-1200481_34166230c4802eb4d19bbd410af5af900f2352f4_N80 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RestrictionType_GID-120048> .
+_:etype_Restriction_GID-59231 <http://knowdive.disi.unitn.it/etype#has_has_GID-120048_Type-5923> _:etype_RestrictionType_GID-1200481_34166230c4802eb4d19bbd410af5af900f2352f4_N80 .
+_:etype_RestrictionType_GID-1200481_34166230c4802eb4d19bbd410af5af900f2352f4_N80 <http://knowdive.disi.unitn.it/etype#has_class_GID-43482_Type-1> "{\"id\":\"42714\",\"kind\":\"CONCEPT\",\"probability\":0.2743484079837799,\"name\":{\"strings\":{\"eng\":[\"gathering\"]}},\"description\":{\"strings\":{\"eng\":[\"a group of persons together in one place\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"gathering\"}}"^^<http://www.w3.org/2001/XMLSchema#Concept> .
+_:etype_Date_GID-1034201_51dc5520cb645f4d4367100b5ce0e0934f3348c3_N34_da39a3ee5e6b4b0d3255bfef95601890afd80709_N33 <http://knowdive.disi.unitn.it/etype#has_class_GID-43482_Type-1> "3/25/2020" .
+_:etype_Restriction_GID-59231 <http://knowdive.disi.unitn.it/etype#has_is_on_GID-103420_Type_5923> _:etype_Date_GID-1034201_51dc5520cb645f4d4367100b5ce0e0934f3348c3_N34_da39a3ee5e6b4b0d3255bfef95601890afd80709_N33 .
+_:etype_Location_GID-1321_967ce367d89dccc133d71049f1197d29561b3726_N32 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-132> .
+_:etype_Location_GID-1321_967ce367d89dccc133d71049f1197d29561b3726_N32 <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-132> "India" .
+_:etype_Restriction_GID-59231 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Restriction_GID-5923> .
+_:etype_Date_GID-1034201_51dc5520cb645f4d4367100b5ce0e0934f3348c3_N34_da39a3ee5e6b4b0d3255bfef95601890afd80709_N33 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Date_GID-103420> .
+_:etype_Restriction_GID-59231 <http://knowdive.disi.unitn.it/etype#has_is_in_GID-132_Type-5923> _:etype_Location_GID-1321_967ce367d89dccc133d71049f1197d29561b3726_N32 .
+
+_:etype_Date_GID-1034201_51dc5520cb645f4d4367100b5ce0e0934f3348c3_N39_da39a3ee5e6b4b0d3255bfef95601890afd80709_N38 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Date_GID-103420> .
+_:etype_Restriction_GID-59231 <http://knowdive.disi.unitn.it/etype#has_is_in_GID-132_Type-5923> _:etype_Location_GID-1321_967ce367d89dccc133d71049f1197d29561b3726_N37 .
+_:etype_Date_GID-1034201_51dc5520cb645f4d4367100b5ce0e0934f3348c3_N39_da39a3ee5e6b4b0d3255bfef95601890afd80709_N38 <http://knowdive.disi.unitn.it/etype#has_class_GID-43482_Type-1> "3/25/2020" .
+_:etype_Location_GID-1321_967ce367d89dccc133d71049f1197d29561b3726_N37 <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-132> "India" .
+_:etype_RestrictionType_GID-1200481_4476def134a284933c9c5264f74743a3708a6c29_N81 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RestrictionType_GID-120048> .
+_:etype_Restriction_GID-59231 <http://knowdive.disi.unitn.it/etype#has_has_GID-120048_Type-5923> _:etype_RestrictionType_GID-1200481_4476def134a284933c9c5264f74743a3708a6c29_N81 .
+_:etype_RestrictionType_GID-1200481_4476def134a284933c9c5264f74743a3708a6c29_N81 <http://knowdive.disi.unitn.it/etype#has_class_GID-43482_Type-1> "{\"id\":\"46326\",\"kind\":\"CONCEPT\",\"probability\":0.24449877440929413,\"name\":{\"strings\":{\"eng\":[\"essential\"]}},\"description\":{\"strings\":{\"eng\":[\"anything indispensable\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"essential\"}}"^^<http://www.w3.org/2001/XMLSchema#Concept> .
+_:etype_Restriction_GID-59231 <http://knowdive.disi.unitn.it/etype#has_is_on_GID-103420_Type_5923> _:etype_Date_GID-1034201_51dc5520cb645f4d4367100b5ce0e0934f3348c3_N39_da39a3ee5e6b4b0d3255bfef95601890afd80709_N38 .
+_:etype_Restriction_GID-59231 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Restriction_GID-5923> .
+_:etype_Location_GID-1321_967ce367d89dccc133d71049f1197d29561b3726_N37 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-132> .
+
+_:etype_RestrictionType_GID-1200481_a5a6072ff0ed2fabf17d91180c1b7325c29954c5_N82 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RestrictionType_GID-120048> .
+_:etype_Location_GID-1321_2382cb0e0ca4f3749712b7042b0eab0a3737b527_N42 <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-132> "Sicilia" .
+_:etype_RestrictionType_GID-1200481_a5a6072ff0ed2fabf17d91180c1b7325c29954c5_N82 <http://knowdive.disi.unitn.it/etype#has_class_GID-43482_Type-1> "{\"id\":\"1415\",\"kind\":\"CONCEPT\",\"probability\":0.1821267008781433,\"name\":{\"strings\":{\"eng\":[\"travel\"]}},\"description\":{\"strings\":{\"eng\":[\"the act of going from one place to another\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"travel\"}}"^^<http://www.w3.org/2001/XMLSchema#Concept> .
+_:etype_Restriction_GID-59231 <http://knowdive.disi.unitn.it/etype#has_is_on_GID-103420_Type_5923> _:etype_Date_GID-1034201_dc07387f763805f6e5acfa67d52aaeb862e1203b_N44_d688ae633cdd9819e1ab8ccc58324b66ca06b4e6_N43 .
+_:etype_Date_GID-1034201_dc07387f763805f6e5acfa67d52aaeb862e1203b_N44_d688ae633cdd9819e1ab8ccc58324b66ca06b4e6_N43 <http://knowdive.disi.unitn.it/etype#has_class_GID-43482_Type-1> "3/22/2020" .
+_:etype_Date_GID-1034201_dc07387f763805f6e5acfa67d52aaeb862e1203b_N44_d688ae633cdd9819e1ab8ccc58324b66ca06b4e6_N43 <http://knowdive.disi.unitn.it/etype#has_class_GID-43482_Type-1> "5/4/2020" .
+_:etype_Date_GID-1034201_dc07387f763805f6e5acfa67d52aaeb862e1203b_N44_d688ae633cdd9819e1ab8ccc58324b66ca06b4e6_N43 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Date_GID-103420> .
+_:etype_Location_GID-1321_2382cb0e0ca4f3749712b7042b0eab0a3737b527_N42 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-132> .
+_:etype_Restriction_GID-59231 <http://knowdive.disi.unitn.it/etype#has_is_in_GID-132_Type-5923> _:etype_Location_GID-1321_2382cb0e0ca4f3749712b7042b0eab0a3737b527_N42 .
+_:etype_Restriction_GID-59231 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Restriction_GID-5923> .
+_:etype_Restriction_GID-59231 <http://knowdive.disi.unitn.it/etype#has_has_GID-120048_Type-5923> _:etype_RestrictionType_GID-1200481_a5a6072ff0ed2fabf17d91180c1b7325c29954c5_N82 .
+
+_:etype_Date_GID-1034201_dc07387f763805f6e5acfa67d52aaeb862e1203b_N49_d688ae633cdd9819e1ab8ccc58324b66ca06b4e6_N48 <http://knowdive.disi.unitn.it/etype#has_class_GID-43482_Type-1> "5/4/2020" .
+_:etype_Location_GID-1321_2382cb0e0ca4f3749712b7042b0eab0a3737b527_N47 <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-132> "Sicilia" .
+_:etype_Restriction_GID-59231 <http://knowdive.disi.unitn.it/etype#has_has_GID-120048_Type-5923> _:etype_RestrictionType_GID-1200481_eb4a53cecae3f6b27fec5fb108314b988a131fb4_N83 .
+_:etype_RestrictionType_GID-1200481_eb4a53cecae3f6b27fec5fb108314b988a131fb4_N83 <http://knowdive.disi.unitn.it/etype#has_class_GID-43482_Type-1> "{\"id\":\"5813\",\"kind\":\"CONCEPT\",\"probability\":1.0,\"name\":{\"strings\":{\"eng\":[\"lockdown\"]}},\"description\":{\"strings\":{\"eng\":[\"the act of confining prisoners to their cells (usually to regain control during a riot)\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"lockdown\"}}"^^<http://www.w3.org/2001/XMLSchema#Concept> .
+_:etype_Restriction_GID-59231 <http://knowdive.disi.unitn.it/etype#has_is_on_GID-103420_Type_5923> _:etype_Date_GID-1034201_dc07387f763805f6e5acfa67d52aaeb862e1203b_N49_d688ae633cdd9819e1ab8ccc58324b66ca06b4e6_N48 .
+_:etype_Restriction_GID-59231 <http://knowdive.disi.unitn.it/etype#has_is_in_GID-132_Type-5923> _:etype_Location_GID-1321_2382cb0e0ca4f3749712b7042b0eab0a3737b527_N47 .
+_:etype_RestrictionType_GID-1200481_eb4a53cecae3f6b27fec5fb108314b988a131fb4_N83 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RestrictionType_GID-120048> .
+_:etype_Date_GID-1034201_dc07387f763805f6e5acfa67d52aaeb862e1203b_N49_d688ae633cdd9819e1ab8ccc58324b66ca06b4e6_N48 <http://knowdive.disi.unitn.it/etype#has_class_GID-43482_Type-1> "3/22/2020" .
+_:etype_Date_GID-1034201_dc07387f763805f6e5acfa67d52aaeb862e1203b_N49_d688ae633cdd9819e1ab8ccc58324b66ca06b4e6_N48 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Date_GID-103420> .
+_:etype_Restriction_GID-59231 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Restriction_GID-5923> .
+_:etype_Location_GID-1321_2382cb0e0ca4f3749712b7042b0eab0a3737b527_N47 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-132> .
+
+_:etype_RestrictionType_GID-1200481_37dfe93f70c60d45731d3bccad31bb4360d08e64_N84 <http://knowdive.disi.unitn.it/etype#has_class_GID-43482_Type-1> "{\"id\":\"89909\",\"kind\":\"CONCEPT\",\"probability\":0.639143705368042,\"name\":{\"strings\":{\"eng\":[\"institutional\"]}},\"description\":{\"strings\":{\"eng\":[\"relating to or constituting or involving an institution\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"institutional\"}}"^^<http://www.w3.org/2001/XMLSchema#Concept> .
+_:etype_Date_GID-1034201_dc07387f763805f6e5acfa67d52aaeb862e1203b_N54_d688ae633cdd9819e1ab8ccc58324b66ca06b4e6_N53 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Date_GID-103420> .
+_:etype_Location_GID-1321_2382cb0e0ca4f3749712b7042b0eab0a3737b527_N52 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-132> .
+_:etype_Location_GID-1321_2382cb0e0ca4f3749712b7042b0eab0a3737b527_N52 <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-132> "Sicilia" .
+_:etype_Restriction_GID-59231 <http://knowdive.disi.unitn.it/etype#has_is_in_GID-132_Type-5923> _:etype_Location_GID-1321_2382cb0e0ca4f3749712b7042b0eab0a3737b527_N52 .
+_:etype_Restriction_GID-59231 <http://knowdive.disi.unitn.it/etype#has_is_on_GID-103420_Type_5923> _:etype_Date_GID-1034201_dc07387f763805f6e5acfa67d52aaeb862e1203b_N54_d688ae633cdd9819e1ab8ccc58324b66ca06b4e6_N53 .
+_:etype_Date_GID-1034201_dc07387f763805f6e5acfa67d52aaeb862e1203b_N54_d688ae633cdd9819e1ab8ccc58324b66ca06b4e6_N53 <http://knowdive.disi.unitn.it/etype#has_class_GID-43482_Type-1> "5/4/2020" .
+_:etype_Restriction_GID-59231 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Restriction_GID-5923> .
+_:etype_RestrictionType_GID-1200481_37dfe93f70c60d45731d3bccad31bb4360d08e64_N84 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RestrictionType_GID-120048> .
+_:etype_Restriction_GID-59231 <http://knowdive.disi.unitn.it/etype#has_has_GID-120048_Type-5923> _:etype_RestrictionType_GID-1200481_37dfe93f70c60d45731d3bccad31bb4360d08e64_N84 .
+_:etype_Date_GID-1034201_dc07387f763805f6e5acfa67d52aaeb862e1203b_N54_d688ae633cdd9819e1ab8ccc58324b66ca06b4e6_N53 <http://knowdive.disi.unitn.it/etype#has_class_GID-43482_Type-1> "3/22/2020" .
+
+_:etype_RestrictionType_GID-1200481_34166230c4802eb4d19bbd410af5af900f2352f4_N85 <http://knowdive.disi.unitn.it/etype#has_class_GID-43482_Type-1> "{\"id\":\"42714\",\"kind\":\"CONCEPT\",\"probability\":0.2743484079837799,\"name\":{\"strings\":{\"eng\":[\"gathering\"]}},\"description\":{\"strings\":{\"eng\":[\"a group of persons together in one place\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"gathering\"}}"^^<http://www.w3.org/2001/XMLSchema#Concept> .
+_:etype_Restriction_GID-59231 <http://knowdive.disi.unitn.it/etype#has_is_on_GID-103420_Type_5923> _:etype_Date_GID-1034201_dc07387f763805f6e5acfa67d52aaeb862e1203b_N59_d688ae633cdd9819e1ab8ccc58324b66ca06b4e6_N58 .
+_:etype_Date_GID-1034201_dc07387f763805f6e5acfa67d52aaeb862e1203b_N59_d688ae633cdd9819e1ab8ccc58324b66ca06b4e6_N58 <http://knowdive.disi.unitn.it/etype#has_class_GID-43482_Type-1> "5/4/2020" .
+_:etype_Date_GID-1034201_dc07387f763805f6e5acfa67d52aaeb862e1203b_N59_d688ae633cdd9819e1ab8ccc58324b66ca06b4e6_N58 <http://knowdive.disi.unitn.it/etype#has_class_GID-43482_Type-1> "3/22/2020" .
+_:etype_Restriction_GID-59231 <http://knowdive.disi.unitn.it/etype#has_has_GID-120048_Type-5923> _:etype_RestrictionType_GID-1200481_34166230c4802eb4d19bbd410af5af900f2352f4_N85 .
+_:etype_Restriction_GID-59231 <http://knowdive.disi.unitn.it/etype#has_is_in_GID-132_Type-5923> _:etype_Location_GID-1321_2382cb0e0ca4f3749712b7042b0eab0a3737b527_N57 .
+_:etype_Date_GID-1034201_dc07387f763805f6e5acfa67d52aaeb862e1203b_N59_d688ae633cdd9819e1ab8ccc58324b66ca06b4e6_N58 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Date_GID-103420> .
+_:etype_Location_GID-1321_2382cb0e0ca4f3749712b7042b0eab0a3737b527_N57 <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-132> "Sicilia" .
+_:etype_Location_GID-1321_2382cb0e0ca4f3749712b7042b0eab0a3737b527_N57 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-132> .
+_:etype_Restriction_GID-59231 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Restriction_GID-5923> .
+_:etype_RestrictionType_GID-1200481_34166230c4802eb4d19bbd410af5af900f2352f4_N85 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RestrictionType_GID-120048> .
+
+_:etype_Location_GID-1321_2382cb0e0ca4f3749712b7042b0eab0a3737b527_N62 <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-132> "Sicilia" .
+_:etype_Location_GID-1321_2382cb0e0ca4f3749712b7042b0eab0a3737b527_N62 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-132> .
+_:etype_RestrictionType_GID-1200481_4476def134a284933c9c5264f74743a3708a6c29_N86 <http://knowdive.disi.unitn.it/etype#has_class_GID-43482_Type-1> "{\"id\":\"46326\",\"kind\":\"CONCEPT\",\"probability\":0.24449877440929413,\"name\":{\"strings\":{\"eng\":[\"essential\"]}},\"description\":{\"strings\":{\"eng\":[\"anything indispensable\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"essential\"}}"^^<http://www.w3.org/2001/XMLSchema#Concept> .
+_:etype_RestrictionType_GID-1200481_4476def134a284933c9c5264f74743a3708a6c29_N86 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RestrictionType_GID-120048> .
+_:etype_Restriction_GID-59231 <http://knowdive.disi.unitn.it/etype#has_is_on_GID-103420_Type_5923> _:etype_Date_GID-1034201_dc07387f763805f6e5acfa67d52aaeb862e1203b_N64_d688ae633cdd9819e1ab8ccc58324b66ca06b4e6_N63 .
+_:etype_Date_GID-1034201_dc07387f763805f6e5acfa67d52aaeb862e1203b_N64_d688ae633cdd9819e1ab8ccc58324b66ca06b4e6_N63 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Date_GID-103420> .
+_:etype_Date_GID-1034201_dc07387f763805f6e5acfa67d52aaeb862e1203b_N64_d688ae633cdd9819e1ab8ccc58324b66ca06b4e6_N63 <http://knowdive.disi.unitn.it/etype#has_class_GID-43482_Type-1> "3/22/2020" .
+_:etype_Restriction_GID-59231 <http://knowdive.disi.unitn.it/etype#has_is_in_GID-132_Type-5923> _:etype_Location_GID-1321_2382cb0e0ca4f3749712b7042b0eab0a3737b527_N62 .
+_:etype_Restriction_GID-59231 <http://knowdive.disi.unitn.it/etype#has_has_GID-120048_Type-5923> _:etype_RestrictionType_GID-1200481_4476def134a284933c9c5264f74743a3708a6c29_N86 .
+_:etype_Restriction_GID-59231 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Restriction_GID-5923> .
+_:etype_Date_GID-1034201_dc07387f763805f6e5acfa67d52aaeb862e1203b_N64_d688ae633cdd9819e1ab8ccc58324b66ca06b4e6_N63 <http://knowdive.disi.unitn.it/etype#has_class_GID-43482_Type-1> "5/4/2020" .
+
+_:etype_Location_GID-1321_2382cb0e0ca4f3749712b7042b0eab0a3737b527_N67 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-132> .
+_:etype_RestrictionType_GID-1200481_d76d9a78b36ad70766e08f38ac018a05ec6c21b7_N87 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RestrictionType_GID-120048> .
+_:etype_Date_GID-1034201_dc07387f763805f6e5acfa67d52aaeb862e1203b_N69_d688ae633cdd9819e1ab8ccc58324b66ca06b4e6_N68 <http://knowdive.disi.unitn.it/etype#has_class_GID-43482_Type-1> "3/22/2020" .
+_:etype_Location_GID-1321_2382cb0e0ca4f3749712b7042b0eab0a3737b527_N67 <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-132> "Sicilia" .
+_:etype_RestrictionType_GID-1200481_d76d9a78b36ad70766e08f38ac018a05ec6c21b7_N87 <http://knowdive.disi.unitn.it/etype#has_class_GID-43482_Type-1> "{\"id\":\"106411\",\"kind\":\"CONCEPT\",\"probability\":1.0,\"name\":{\"strings\":{\"eng\":[\"non\"]}},\"description\":{\"strings\":{\"eng\":[\"negation of a word or group of words\"]}},\"metadata\":{\"summary\":\"\",\"lemma\":\"non\"}}"^^<http://www.w3.org/2001/XMLSchema#Concept> .
+_:etype_Restriction_GID-59231 <http://knowdive.disi.unitn.it/etype#has_has_GID-120048_Type-5923> _:etype_RestrictionType_GID-1200481_d76d9a78b36ad70766e08f38ac018a05ec6c21b7_N87 .
+_:etype_Restriction_GID-59231 <http://knowdive.disi.unitn.it/etype#has_is_in_GID-132_Type-5923> _:etype_Location_GID-1321_2382cb0e0ca4f3749712b7042b0eab0a3737b527_N67 .
+_:etype_Date_GID-1034201_dc07387f763805f6e5acfa67d52aaeb862e1203b_N69_d688ae633cdd9819e1ab8ccc58324b66ca06b4e6_N68 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Date_GID-103420> .
+_:etype_Restriction_GID-59231 <http://knowdive.disi.unitn.it/etype#has_is_on_GID-103420_Type_5923> _:etype_Date_GID-1034201_dc07387f763805f6e5acfa67d52aaeb862e1203b_N69_d688ae633cdd9819e1ab8ccc58324b66ca06b4e6_N68 .
+_:etype_Date_GID-1034201_dc07387f763805f6e5acfa67d52aaeb862e1203b_N69_d688ae633cdd9819e1ab8ccc58324b66ca06b4e6_N68 <http://knowdive.disi.unitn.it/etype#has_class_GID-43482_Type-1> "5/4/2020" .
+_:etype_Restriction_GID-59231 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Restriction_GID-5923> .
+

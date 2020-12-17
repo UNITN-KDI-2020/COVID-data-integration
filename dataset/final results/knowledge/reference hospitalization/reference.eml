@@ -1,0 +1,166 @@
+[{
+    "provenance": "StarLinker import @Thu Dec 17 06:30:39 GMT 2020",
+    "attributes": {
+        "132": [
+            {
+                "provenance": "StarLinker import @Thu Dec 17 06:30:39 GMT 2020",
+                "attributes": {"2": ["Italy"]},
+                "type": 132
+            },
+            {
+                "provenance": "StarLinker import @Thu Dec 17 06:30:39 GMT 2020",
+                "attributes": {"2": ["Italy"]},
+                "type": 132
+            },
+            {
+                "provenance": "StarLinker import @Thu Dec 17 06:30:39 GMT 2020",
+                "attributes": {"2": ["Italy"]},
+                "type": 132
+            },
+            {
+                "provenance": "StarLinker import @Thu Dec 17 06:30:39 GMT 2020",
+                "attributes": {"2": ["Italy"]},
+                "type": 132
+            },
+            {
+                "provenance": "StarLinker import @Thu Dec 17 06:30:39 GMT 2020",
+                "attributes": {"2": ["Italy"]},
+                "type": 132
+            },
+            {
+                "provenance": "StarLinker import @Thu Dec 17 06:30:39 GMT 2020",
+                "attributes": {"2": ["Italy"]},
+                "type": 132
+            },
+            {
+                "provenance": "StarLinker import @Thu Dec 17 06:30:39 GMT 2020",
+                "attributes": {"2": ["Italy"]},
+                "type": 132
+            }
+        ],
+        "103420": [
+            {
+                "provenance": "StarLinker import @Thu Dec 17 06:30:39 GMT 2020",
+                "attributes": {
+                    "81001": ["31"],
+                    "80988": ["12"],
+                    "80976": ["2020"]
+                },
+                "type": 103420
+            },
+            {
+                "provenance": "StarLinker import @Thu Dec 17 06:30:39 GMT 2020",
+                "attributes": {
+                    "81001": ["28"],
+                    "80988": ["12"],
+                    "80976": ["2020"]
+                },
+                "type": 103420
+            },
+            {
+                "provenance": "StarLinker import @Thu Dec 17 06:30:39 GMT 2020",
+                "attributes": {
+                    "81001": ["29"],
+                    "80988": ["12"],
+                    "80976": ["2020"]
+                },
+                "type": 103420
+            },
+            {
+                "provenance": "StarLinker import @Thu Dec 17 06:30:39 GMT 2020",
+                "attributes": {
+                    "81001": ["27"],
+                    "80988": ["12"],
+                    "80976": ["2020"]
+                },
+                "type": 103420
+            },
+            {
+                "provenance": "StarLinker import @Thu Dec 17 06:30:39 GMT 2020",
+                "attributes": {
+                    "81001": ["30"],
+                    "80988": ["12"],
+                    "80976": ["2020"]
+                },
+                "type": 103420
+            },
+            {
+                "provenance": "StarLinker import @Thu Dec 17 06:30:39 GMT 2020",
+                "attributes": {
+                    "81001": ["26"],
+                    "80988": ["12"],
+                    "80976": ["2020"]
+                },
+                "type": 103420
+            },
+            {
+                "provenance": "StarLinker import @Thu Dec 17 06:30:39 GMT 2020",
+                "attributes": {
+                    "81001": ["25"],
+                    "80988": ["12"],
+                    "80976": ["2020"]
+                },
+                "type": 103420
+            }
+        ],
+        "120046": [
+            {
+                "provenance": "StarLinker import @Thu Dec 17 06:30:39 GMT 2020",
+                "attributes": {
+                    "120094": ["18453.61204"],
+                    "120095": ["42521.90109"]
+                },
+                "type": 120046
+            },
+            {
+                "provenance": "StarLinker import @Thu Dec 17 06:30:39 GMT 2020",
+                "attributes": {
+                    "120094": ["18095.58425"],
+                    "120095": ["43782.1351"]
+                },
+                "type": 120046
+            },
+            {
+                "provenance": "StarLinker import @Thu Dec 17 06:30:39 GMT 2020",
+                "attributes": {
+                    "120094": ["17950.35684"],
+                    "120095": ["44677.38953"]
+                },
+                "type": 120046
+            },
+            {
+                "provenance": "StarLinker import @Thu Dec 17 06:30:39 GMT 2020",
+                "attributes": {
+                    "120094": ["17641.92725"],
+                    "120095": ["45236.46341"]
+                },
+                "type": 120046
+            },
+            {
+                "provenance": "StarLinker import @Thu Dec 17 06:30:39 GMT 2020",
+                "attributes": {
+                    "120094": ["18413.99761"],
+                    "120095": ["41696.5654"]
+                },
+                "type": 120046
+            },
+            {
+                "provenance": "StarLinker import @Thu Dec 17 06:30:39 GMT 2020",
+                "attributes": {
+                    "120094": ["17249.79597"],
+                    "120095": ["45834.16372"]
+                },
+                "type": 120046
+            },
+            {
+                "provenance": "StarLinker import @Thu Dec 17 06:30:39 GMT 2020",
+                "attributes": {
+                    "120094": ["17570.2683"],
+                    "120095": ["45218.64675"]
+                },
+                "type": 120046
+            }
+        ]
+    },
+    "type": 120044
+}]
